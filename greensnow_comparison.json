@@ -152,7 +152,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 20612,
+		"ips": 20522,
 		"common": 233
 	},
 	{
@@ -320,8 +320,8 @@
 	{
 		"name": "cybercrime",
 		"category": "malware",
-		"ips": 18916,
-		"common": 30
+		"ips": 18944,
+		"common": 32
 	},
 	{
 		"name": "darklist_de",
@@ -476,13 +476,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50569,
+		"ips": 50568,
 		"common": 25
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656323470,
+		"ips": 656323471,
 		"common": 31
 	},
 	{
@@ -500,20 +500,20 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9595828,
-		"common": 294
+		"ips": 9595767,
+		"common": 295
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37493,
+		"ips": 37492,
 		"common": 18
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 22754,
-		"common": 36
+		"ips": 22781,
+		"common": 38
 	},
 	{
 		"name": "firehol_webserver",
@@ -782,7 +782,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 28452,
+		"ips": 28235,
 		"common": 53
 	},
 	{
@@ -1016,7 +1016,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5236,
+		"ips": 5237,
 		"common": 1
 	},
 	{
@@ -1070,7 +1070,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 8026,
+		"ips": 8021,
 		"common": 2
 	},
 	{
@@ -1260,12 +1260,6 @@
 		"common": 31
 	},
 	{
-		"name": "urandomusto_http",
-		"category": "attacks",
-		"ips": 451,
-		"common": 3
-	},
-	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
 		"ips": 112,
@@ -1286,20 +1280,26 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 448,
-		"common": 1
+		"ips": 443,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 444,
-		"common": 8
+		"ips": 440,
+		"common": 6
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 349,
+		"ips": 350,
 		"common": 6
+	},
+	{
+		"name": "urandomusto_vnc",
+		"category": "attacks",
+		"ips": 39,
+		"common": 1
 	},
 	{
 		"name": "urlvir",

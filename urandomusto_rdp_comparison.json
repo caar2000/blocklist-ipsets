@@ -27,7 +27,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 7242,
-		"common": 18
+		"common": 19
 	},
 	{
 		"name": "bi_any_2_1d",
@@ -170,7 +170,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656323470,
+		"ips": 656323471,
 		"common": 7
 	},
 	{
@@ -188,7 +188,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9595828,
+		"ips": 9595767,
 		"common": 3
 	},
 	{
@@ -369,7 +369,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "sp_atma",
@@ -408,12 +408,6 @@
 		"common": 2
 	},
 	{
-		"name": "urandomusto_http",
-		"category": "attacks",
-		"ips": 451,
-		"common": 4
-	},
-	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
 		"ips": 112,
@@ -428,13 +422,25 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 448,
+		"ips": 443,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 440,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 349,
+		"ips": 350,
 		"common": 3
+	},
+	{
+		"name": "urandomusto_vnc",
+		"category": "attacks",
+		"ips": 39,
+		"common": 1
 	}
 ]
