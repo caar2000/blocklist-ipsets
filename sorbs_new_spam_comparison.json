@@ -98,49 +98,49 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44838,
-		"common": 1196
+		"ips": 44760,
+		"common": 1190
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 12350,
+		"ips": 12400,
 		"common": 10
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1166,
+		"ips": 1173,
 		"common": 11
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 3604,
+		"ips": 3652,
 		"common": 9
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 496,
+		"ips": 493,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2287,
-		"common": 35
+		"ips": 2245,
+		"common": 32
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 19623,
-		"common": 1161
+		"ips": 19555,
+		"common": 1155
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 19280,
+		"ips": 19216,
 		"common": 13
 	},
 	{
@@ -362,7 +362,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 315847,
+		"ips": 315848,
 		"common": 1397
 	},
 	{
@@ -464,8 +464,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 55374,
-		"common": 1210
+		"ips": 55298,
+		"common": 1204
 	},
 	{
 		"name": "firehol_level3",
@@ -1404,9 +1404,15 @@
 		"common": 10
 	},
 	{
+		"name": "xroxy",
+		"category": "anonymizers",
+		"ips": 55,
+		"common": 1
+	},
+	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 139,
+		"ips": 142,
 		"common": 4
 	},
 	{
@@ -1418,7 +1424,7 @@
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 274,
+		"ips": 276,
 		"common": 6
 	},
 	{
