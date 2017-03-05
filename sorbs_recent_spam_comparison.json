@@ -14,7 +14,7 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 63,
+		"ips": 64,
 		"common": 1
 	},
 	{
@@ -188,8 +188,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 20751,
-		"common": 1512
+		"ips": 20715,
+		"common": 1510
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -240,21 +240,27 @@
 		"common": 11
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 59,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1301,
-		"common": 15
+		"ips": 1308,
+		"common": 16
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15045,
-		"common": 374
+		"ips": 15050,
+		"common": 375
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4896,
+		"ips": 4906,
 		"common": 103
 	},
 	{
@@ -680,8 +686,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11762,
-		"common": 233
+		"ips": 11768,
+		"common": 234
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -704,7 +710,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 55184,
+		"ips": 55175,
 		"common": 3693
 	},
 	{
@@ -716,8 +722,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9595972,
-		"common": 4159
+		"ips": 9595939,
+		"common": 4157
 	},
 	{
 		"name": "firehol_proxies",
@@ -758,7 +764,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2253,
+		"ips": 2245,
 		"common": 164
 	},
 	{
@@ -1112,8 +1118,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 28555,
-		"common": 7029
+		"ips": 28472,
+		"common": 7004
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1136,7 +1142,7 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 315,
+		"ips": 304,
 		"common": 2
 	},
 	{
