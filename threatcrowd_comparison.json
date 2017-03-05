@@ -290,7 +290,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 20629,
+		"ips": 20628,
 		"common": 85
 	},
 	{
@@ -422,25 +422,25 @@
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6077,
+		"ips": 6083,
 		"common": 11
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 61398,
+		"ips": 61392,
 		"common": 33
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 17014,
+		"ips": 17003,
 		"common": 22
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 26752,
+		"ips": 26744,
 		"common": 1
 	},
 	{
@@ -452,19 +452,19 @@
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5440,
+		"ips": 5435,
 		"common": 11
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 45648,
+		"ips": 45649,
 		"common": 36
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 13912,
+		"ips": 13910,
 		"common": 24
 	},
 	{
@@ -800,13 +800,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11860,
+		"ips": 11861,
 		"common": 17
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 216612,
+		"ips": 216606,
 		"common": 73
 	},
 	{
@@ -836,7 +836,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9595842,
+		"ips": 9595841,
 		"common": 455
 	},
 	{
@@ -1676,20 +1676,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 389,
+		"ips": 387,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 441,
-		"common": 2
-	},
-	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
 		"ips": 451,
-		"common": 1
+		"common": 3
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -1700,7 +1694,7 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 152,
+		"ips": 154,
 		"common": 6
 	},
 	{
@@ -1710,9 +1704,15 @@
 		"common": 3
 	},
 	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 448,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 348,
+		"ips": 349,
 		"common": 1
 	},
 	{
