@@ -206,7 +206,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 315816,
+		"ips": 315818,
 		"common": 366
 	},
 	{
@@ -242,8 +242,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12306,
-		"common": 123
+		"ips": 12394,
+		"common": 124
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -440,8 +440,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 26965,
-		"common": 11
+		"ips": 27088,
+		"common": 12
 	},
 	{
 		"name": "nullsecure",
@@ -770,8 +770,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5589,
-		"common": 81
+		"ips": 5699,
+		"common": 83
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -825,7 +825,13 @@
 		"name": "urandomusto_http",
 		"category": "attacks",
 		"ips": 451,
-		"common": 7
+		"common": 8
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 451,
+		"common": 1
 	},
 	{
 		"name": "xroxy",
