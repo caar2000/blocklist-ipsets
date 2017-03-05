@@ -104,43 +104,43 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44666,
-		"common": 740
+		"ips": 44838,
+		"common": 742
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 12314,
+		"ips": 12350,
 		"common": 10
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1161,
-		"common": 595
+		"ips": 1166,
+		"common": 597
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 3566,
+		"ips": 3604,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2280,
+		"ips": 2287,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 19589,
+		"ips": 19623,
 		"common": 131
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 19187,
+		"ips": 19280,
 		"common": 4
 	},
 	{
@@ -237,48 +237,48 @@
 		"name": "cleantalk",
 		"category": "abuse",
 		"ips": 2651,
-		"common": 491
+		"common": 494
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6098,
+		"ips": 6102,
 		"common": 804
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 61399,
-		"common": 5164
+		"ips": 61390,
+		"common": 5163
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 16815,
-		"common": 1755
+		"ips": 16797,
+		"common": 1753
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
 		"ips": 651,
-		"common": 7
+		"common": 5
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 1409,
+		"ips": 1417,
 		"common": 73
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 26757,
-		"common": 1775
+		"ips": 26752,
+		"common": 1774
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 5735,
+		"ips": 5733,
 		"common": 552
 	},
 	{
@@ -291,25 +291,25 @@
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 484
+		"common": 489
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5429,
+		"ips": 5427,
 		"common": 856
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 45669,
+		"ips": 45664,
 		"common": 4397
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 13913,
-		"common": 1548
+		"ips": 13887,
+		"common": 1546
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -338,8 +338,8 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 22756,
-		"common": 11
+		"ips": 22796,
+		"common": 12
 	},
 	{
 		"name": "dataplane_sshpwauth",
@@ -494,19 +494,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13309,
+		"ips": 13313,
 		"common": 2414
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 216298,
+		"ips": 216294,
 		"common": 17254
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50453,
+		"ips": 50454,
 		"common": 2436
 	},
 	{
@@ -518,8 +518,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 55198,
-		"common": 753
+		"ips": 55370,
+		"common": 755
 	},
 	{
 		"name": "firehol_level3",
@@ -536,7 +536,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37303,
+		"ips": 37304,
 		"common": 2205
 	},
 	{
@@ -1161,18 +1161,18 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 8
+		"common": 5
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2289,
+		"ips": 2297,
 		"common": 79
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 20588,
+		"ips": 20589,
 		"common": 102
 	},
 	{
@@ -1251,13 +1251,13 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 22
+		"common": 24
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 376,
-		"common": 88
+		"ips": 377,
+		"common": 89
 	},
 	{
 		"name": "sslproxies_30d",
@@ -1268,7 +1268,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2130,
+		"ips": 2126,
 		"common": 500
 	},
 	{
