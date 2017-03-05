@@ -20,7 +20,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 19988,
+		"ips": 19856,
 		"common": 1
 	},
 	{
@@ -44,8 +44,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656323473,
-		"common": 122
+		"ips": 656323474,
+		"common": 123
 	},
 	{
 		"name": "firehol_level2",
@@ -62,7 +62,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9595245,
+		"ips": 9595112,
 		"common": 1
 	},
 	{
@@ -189,12 +189,18 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 16
+		"common": 17
 	},
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 545338,
+		"common": 1
+	},
+	{
+		"name": "sorbs_web",
+		"category": "spam",
+		"ips": 6267285,
 		"common": 1
 	},
 	{
