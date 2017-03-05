@@ -116,7 +116,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 443,
+		"ips": 444,
 		"common": 5
 	},
 	{
@@ -176,13 +176,13 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 216696,
+		"ips": 216700,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656323478,
+		"ips": 656324502,
 		"common": 11
 	},
 	{
@@ -362,19 +362,25 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 386,
-		"common": 2
+		"ips": 385,
+		"common": 3
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 439,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 107,
+		"ips": 105,
 		"common": 7
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 153,
+		"ips": 152,
 		"common": 1
 	},
 	{
@@ -386,7 +392,7 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 346,
+		"ips": 344,
 		"common": 4
 	},
 	{

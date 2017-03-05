@@ -9,7 +9,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 7242,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "bi_ssh_2_30d",
@@ -51,7 +51,7 @@
 		"name": "dshield_top_1000",
 		"category": "attacks",
 		"ips": 889,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "firehol_level2",
@@ -63,7 +63,7 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 153817,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "firehol_level4",
@@ -75,12 +75,6 @@
 		"name": "haley_ssh",
 		"category": "attacks",
 		"ips": 24984,
-		"common": 1
-	},
-	{
-		"name": "iblocklist_bogons",
-		"category": "unrouteable",
-		"ips": 656175779,
 		"common": 1
 	},
 	{
@@ -165,7 +159,13 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 2414,
-		"common": 1
+		"common": 3
+	},
+	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 2351,
+		"common": 2
 	},
 	{
 		"name": "sorbs_dul",
@@ -188,13 +188,13 @@
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 107,
+		"ips": 105,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 153,
+		"ips": 152,
 		"common": 1
 	}
 ]
