@@ -20,7 +20,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 20253,
+		"ips": 20346,
 		"common": 1
 	},
 	{
@@ -38,7 +38,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 216652,
+		"ips": 216644,
 		"common": 2
 	},
 	{
@@ -50,7 +50,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54268,
+		"ips": 54709,
 		"common": 1
 	},
 	{
@@ -62,13 +62,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9595512,
+		"ips": 9595605,
 		"common": 1
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 22778,
+		"ips": 22780,
 		"common": 122
 	},
 	{
@@ -82,6 +82,12 @@
 		"category": "attacks",
 		"ips": 1095573,
 		"common": 3
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 1512,
+		"common": 1
 	},
 	{
 		"name": "hphosts_emd",
