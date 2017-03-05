@@ -92,7 +92,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 19856,
+		"ips": 19774,
 		"common": 43
 	},
 	{
@@ -110,13 +110,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 61407,
+		"ips": 61399,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 45670,
+		"ips": 45674,
 		"common": 1
 	},
 	{
@@ -248,7 +248,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9595112,
+		"ips": 9595026,
 		"common": 74
 	},
 	{
@@ -524,14 +524,20 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 447,
+		"ips": 441,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 449,
-		"common": 4
+		"ips": 447,
+		"common": 3
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 435,
+		"common": 1
 	},
 	{
 		"name": "voipbl",

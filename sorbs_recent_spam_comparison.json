@@ -188,7 +188,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 19856,
+		"ips": 19774,
 		"common": 1471
 	},
 	{
@@ -308,73 +308,73 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2626,
-		"common": 31
+		"ips": 2629,
+		"common": 30
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6020,
-		"common": 85
+		"ips": 6005,
+		"common": 86
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 61407,
-		"common": 1373
+		"ips": 61399,
+		"common": 1372
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 16884,
+		"ips": 16863,
 		"common": 200
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 626,
+		"ips": 629,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 1382,
+		"ips": 1377,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 26752,
-		"common": 565
+		"ips": 26745,
+		"common": 563
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 5803,
+		"ips": 5779,
 		"common": 20
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 30
+		"common": 29
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5348,
-		"common": 85
+		"ips": 5342,
+		"common": 86
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 45670,
+		"ips": 45674,
 		"common": 1014
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 13902,
+		"ips": 13907,
 		"common": 248
 	},
 	{
@@ -680,8 +680,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12780,
-		"common": 261
+		"ips": 12768,
+		"common": 262
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -716,7 +716,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9595112,
+		"ips": 9595026,
 		"common": 4118
 	},
 	{
@@ -1725,25 +1725,31 @@
 		"name": "urandomusto_ftp",
 		"category": "attacks",
 		"ips": 386,
-		"common": 25
+		"common": 24
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 447,
-		"common": 25
+		"ips": 441,
+		"common": 14
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
 		"ips": 451,
-		"common": 156
+		"common": 144
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 449,
-		"common": 2
+		"ips": 447,
+		"common": 3
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 435,
+		"common": 3
 	},
 	{
 		"name": "urlvir",

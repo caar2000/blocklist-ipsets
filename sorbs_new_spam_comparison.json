@@ -152,7 +152,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 19856,
+		"ips": 19774,
 		"common": 473
 	},
 	{
@@ -254,61 +254,61 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2626,
-		"common": 17
+		"ips": 2629,
+		"common": 16
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6020,
+		"ips": 6005,
 		"common": 34
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 61407,
+		"ips": 61399,
 		"common": 425
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 16884,
+		"ips": 16863,
 		"common": 57
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 26752,
+		"ips": 26745,
 		"common": 152
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 5803,
+		"ips": 5779,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 17
+		"common": 16
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5348,
+		"ips": 5342,
 		"common": 34
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 45670,
+		"ips": 45674,
 		"common": 296
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 13902,
+		"ips": 13907,
 		"common": 57
 	},
 	{
@@ -440,7 +440,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12780,
+		"ips": 12768,
 		"common": 98
 	},
 	{
@@ -476,7 +476,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9595112,
+		"ips": 9595026,
 		"common": 805
 	},
 	{
@@ -1371,19 +1371,25 @@
 		"name": "urandomusto_ftp",
 		"category": "attacks",
 		"ips": 386,
-		"common": 12
+		"common": 11
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 447,
-		"common": 8
+		"ips": 441,
+		"common": 4
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
 		"ips": 451,
-		"common": 74
+		"common": 66
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 447,
+		"common": 1
 	},
 	{
 		"name": "urlvir",
