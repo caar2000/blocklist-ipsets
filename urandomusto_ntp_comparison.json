@@ -98,7 +98,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 22379,
+		"ips": 22436,
 		"common": 3
 	},
 	{
@@ -156,6 +156,12 @@
 		"common": 1
 	},
 	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 216600,
+		"common": 1
+	},
+	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 656323466,
@@ -183,7 +189,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34490828,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "gofferje_sip",
@@ -201,6 +207,12 @@
 		"name": "haley_ssh",
 		"category": "attacks",
 		"ips": 24963,
+		"common": 1
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 24173,
 		"common": 1
 	},
 	{
@@ -255,7 +267,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 24
+		"common": 25
 	},
 	{
 		"name": "nullsecure",
@@ -312,6 +324,36 @@
 		"common": 1
 	},
 	{
+		"name": "stopforumspam",
+		"category": "abuse",
+		"ips": 159145,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_180d",
+		"category": "abuse",
+		"ips": 282411,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_30d",
+		"category": "abuse",
+		"ips": 64419,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_365d",
+		"category": "abuse",
+		"ips": 559106,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_90d",
+		"category": "abuse",
+		"ips": 160493,
+		"common": 1
+	},
+	{
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 12262,
@@ -344,13 +386,19 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 390,
+		"ips": 389,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 451,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 156,
+		"ips": 152,
 		"common": 1
 	},
 	{
@@ -362,14 +410,8 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 346,
+		"ips": 348,
 		"common": 3
-	},
-	{
-		"name": "urandomusto_vnc",
-		"category": "attacks",
-		"ips": 40,
-		"common": 1
 	},
 	{
 		"name": "voipbl",
