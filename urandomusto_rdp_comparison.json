@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 46881,
-		"common": 25
+		"common": 24
 	},
 	{
 		"name": "atlas_attacks_30d",
@@ -32,7 +32,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1430,
+		"ips": 1431,
 		"common": 1
 	},
 	{
@@ -81,7 +81,7 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 16369,
-		"common": 24
+		"common": 23
 	},
 	{
 		"name": "dataplane_sipquery",
@@ -98,7 +98,7 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 20731,
+		"ips": 20683,
 		"common": 1
 	},
 	{
@@ -170,20 +170,20 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656324505,
+		"ips": 656324508,
 		"common": 9
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 55023,
+		"ips": 55021,
 		"common": 16
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 154127,
-		"common": 46
+		"common": 45
 	},
 	{
 		"name": "firehol_level4",
@@ -225,7 +225,13 @@
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 15725,
-		"common": 22
+		"common": 21
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227983648,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_isp_verizon",
@@ -249,7 +255,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 12
+		"common": 13
 	},
 	{
 		"name": "iblocklist_rangetest",
@@ -326,7 +332,7 @@
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 145802,
+		"ips": 145827,
 		"common": 3
 	},
 	{
@@ -416,7 +422,7 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 430,
+		"ips": 422,
 		"common": 5
 	},
 	{
@@ -429,12 +435,12 @@
 		"name": "urandomusto_smb",
 		"category": "attacks",
 		"ips": 57,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 438,
+		"ips": 439,
 		"common": 1
 	},
 	{
@@ -446,7 +452,7 @@
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 42,
+		"ips": 40,
 		"common": 2
 	}
 ]

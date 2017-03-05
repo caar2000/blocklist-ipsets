@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 46881,
-		"common": 1757
+		"common": 1751
 	},
 	{
 		"name": "asprox_c2",
@@ -51,7 +51,7 @@
 		"name": "bbcan177_ms1",
 		"category": "malware",
 		"ips": 5268568,
-		"common": 12
+		"common": 11
 	},
 	{
 		"name": "bbcan177_ms3",
@@ -68,8 +68,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1430,
-		"common": 276
+		"ips": 1431,
+		"common": 274
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -128,13 +128,13 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4879,
+		"ips": 4839,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6068,
+		"ips": 6048,
 		"common": 1
 	},
 	{
@@ -146,7 +146,7 @@
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 9959,
+		"ips": 9954,
 		"common": 1
 	},
 	{
@@ -428,8 +428,8 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 20731,
-		"common": 5892
+		"ips": 20683,
+		"common": 5916
 	},
 	{
 		"name": "dm_tor",
@@ -656,14 +656,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656324505,
+		"ips": 656324508,
 		"common": 5759
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 154127,
-		"common": 10312
+		"common": 10306
 	},
 	{
 		"name": "firehol_level4",
@@ -687,7 +687,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34490685,
-		"common": 5337
+		"common": 5336
 	},
 	{
 		"name": "gofferje_sip",
@@ -771,7 +771,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 1534
+		"common": 1533
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -891,7 +891,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 3866
+		"common": 3865
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -1065,49 +1065,49 @@
 		"name": "openbl_180d",
 		"category": "attacks",
 		"ips": 24107,
-		"common": 1527
+		"common": 1521
 	},
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 264,
-		"common": 264
+		"ips": 258,
+		"common": 258
 	},
 	{
 		"name": "openbl_30d",
 		"category": "attacks",
 		"ips": 4209,
-		"common": 1082
+		"common": 1076
 	},
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
 		"ips": 32902,
-		"common": 1629
+		"common": 1623
 	},
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
 		"ips": 9729,
-		"common": 1278
+		"common": 1272
 	},
 	{
 		"name": "openbl_7d",
 		"category": "attacks",
 		"ips": 1489,
-		"common": 760
+		"common": 754
 	},
 	{
 		"name": "openbl_90d",
 		"category": "attacks",
 		"ips": 16375,
-		"common": 1396
+		"common": 1390
 	},
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 145802,
-		"common": 1785
+		"ips": 145827,
+		"common": 1804
 	},
 	{
 		"name": "packetmail",
@@ -1329,12 +1329,12 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34247816,
-		"common": 5145
+		"common": 5144
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5243,
+		"ips": 5244,
 		"common": 32
 	},
 	{
@@ -1599,7 +1599,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 12361,
-		"common": 460
+		"common": 458
 	},
 	{
 		"name": "talosintel_ipfilter",
@@ -1647,7 +1647,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 21744,
-		"common": 720
+		"common": 719
 	},
 	{
 		"name": "urandomusto_dns",
@@ -1664,7 +1664,7 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 430,
+		"ips": 422,
 		"common": 76
 	},
 	{
@@ -1694,26 +1694,26 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 435,
+		"ips": 407,
 		"common": 154
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 438,
-		"common": 6
+		"ips": 439,
+		"common": 7
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
 		"ips": 339,
-		"common": 39
+		"common": 38
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 42,
-		"common": 4
+		"ips": 40,
+		"common": 3
 	},
 	{
 		"name": "urlvir",
