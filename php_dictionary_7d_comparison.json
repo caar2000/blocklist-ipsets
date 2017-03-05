@@ -62,25 +62,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4814,
+		"ips": 4824,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6090,
+		"ips": 6095,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 20388,
+		"ips": 20393,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 9973,
+		"ips": 9969,
 		"common": 1
 	},
 	{
@@ -92,14 +92,14 @@
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 925,
-		"common": 2
+		"ips": 932,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20827,
-		"common": 16
+		"ips": 20871,
+		"common": 17
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -146,7 +146,7 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 15811,
+		"ips": 15837,
 		"common": 1
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50642,
+		"ips": 50638,
 		"common": 61
 	},
 	{
@@ -296,7 +296,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 153151,
+		"ips": 153176,
 		"common": 14
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37546,
+		"ips": 37542,
 		"common": 58
 	},
 	{
@@ -735,18 +735,18 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2298,
+		"ips": 2263,
 		"common": 18
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 20778,
+		"ips": 20774,
 		"common": 49
 	},
 	{
@@ -804,6 +804,12 @@
 		"common": 4
 	},
 	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 100,
+		"common": 1
+	},
+	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
 		"ips": 499,
@@ -818,7 +824,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2233,
+		"ips": 2228,
 		"common": 3
 	},
 	{
