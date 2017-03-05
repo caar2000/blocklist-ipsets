@@ -56,31 +56,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44403,
-		"common": 1006
+		"ips": 44256,
+		"common": 1003
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 11520,
+		"ips": 11563,
 		"common": 3
-	},
-	{
-		"name": "blocklist_de_ftp",
-		"category": "attacks",
-		"ips": 510,
-		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2698,
+		"ips": 2639,
 		"common": 52
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20243,
+		"ips": 20101,
 		"common": 65
 	},
 	{
@@ -92,8 +86,8 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 19165,
-		"common": 928
+		"ips": 19109,
+		"common": 926
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -380,7 +374,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50575,
+		"ips": 50573,
 		"common": 6
 	},
 	{
@@ -392,8 +386,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54709,
-		"common": 1092
+		"ips": 54561,
+		"common": 1089
 	},
 	{
 		"name": "firehol_level3",
@@ -410,7 +404,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37462,
+		"ips": 37460,
 		"common": 5
 	},
 	{
@@ -987,7 +981,7 @@
 		"name": "urandomusto_ftp",
 		"category": "attacks",
 		"ips": 386,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "urandomusto_http",
@@ -996,28 +990,34 @@
 		"common": 1
 	},
 	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 451,
+		"common": 6
+	},
+	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 150,
+		"ips": 153,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 415,
-		"common": 30
+		"ips": 451,
+		"common": 28
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 438,
+		"ips": 437,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 345,
-		"common": 5
+		"ips": 351,
+		"common": 6
 	},
 	{
 		"name": "virbl",
