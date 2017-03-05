@@ -74,8 +74,8 @@
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
-		"ips": 7471,
-		"common": 153
+		"ips": 7446,
+		"common": 152
 	},
 	{
 		"name": "bi_any_2_7d",
@@ -146,44 +146,44 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44417,
-		"common": 876
+		"ips": 44263,
+		"common": 878
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10765,
+		"ips": 10803,
 		"common": 7
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 865,
-		"common": 118
+		"ips": 872,
+		"common": 119
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 2009,
+		"ips": 2047,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 3300,
+		"ips": 3199,
 		"common": 13
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 21335,
-		"common": 725
+		"ips": 21201,
+		"common": 728
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 19017,
-		"common": 26
+		"ips": 18957,
+		"common": 24
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -236,26 +236,26 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 65,
-		"common": 5
+		"ips": 60,
+		"common": 4
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
 		"ips": 1301,
-		"common": 86
+		"common": 88
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15051,
-		"common": 1225
+		"ips": 15045,
+		"common": 1226
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4881,
-		"common": 446
+		"ips": 4896,
+		"common": 448
 	},
 	{
 		"name": "botvrij_dst",
@@ -266,7 +266,7 @@
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
-		"ips": 1186,
+		"ips": 1185,
 		"common": 3
 	},
 	{
@@ -410,7 +410,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 7042,
+		"ips": 7067,
 		"common": 207
 	},
 	{
@@ -674,8 +674,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11650,
-		"common": 607
+		"ips": 11656,
+		"common": 608
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -686,7 +686,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50572,
+		"ips": 50640,
 		"common": 12315
 	},
 	{
@@ -698,8 +698,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 55359,
-		"common": 892
+		"ips": 55203,
+		"common": 895
 	},
 	{
 		"name": "firehol_level3",
@@ -710,13 +710,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9595973,
+		"ips": 9595968,
 		"common": 1778
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37528,
+		"ips": 37530,
 		"common": 12178
 	},
 	{
@@ -758,8 +758,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2257,
-		"common": 15
+		"ips": 2253,
+		"common": 17
 	},
 	{
 		"name": "haley_ssh",
@@ -1118,8 +1118,8 @@
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
-		"ips": 32839,
-		"common": 196
+		"ips": 32849,
+		"common": 195
 	},
 	{
 		"name": "openbl_60d",
@@ -1467,25 +1467,25 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 31
+		"common": 25
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2318,
-		"common": 905
+		"ips": 2303,
+		"common": 896
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 20770,
+		"ips": 20772,
 		"common": 6570
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 8041,
-		"common": 2393
+		"ips": 8042,
+		"common": 2392
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -1569,13 +1569,13 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 29
+		"common": 32
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 495,
-		"common": 96
+		"ips": 493,
+		"common": 95
 	},
 	{
 		"name": "sslproxies_30d",
@@ -1586,8 +1586,8 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2282,
-		"common": 814
+		"ips": 2261,
+		"common": 813
 	},
 	{
 		"name": "stopforumspam",
