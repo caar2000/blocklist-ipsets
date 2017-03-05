@@ -386,7 +386,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50641,
+		"ips": 50640,
 		"common": 9
 	},
 	{
@@ -410,8 +410,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9595839,
-		"common": 813
+		"ips": 9595848,
+		"common": 818
 	},
 	{
 		"name": "firehol_proxies",
@@ -452,8 +452,8 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 24963,
-		"common": 466
+		"ips": 24972,
+		"common": 471
 	},
 	{
 		"name": "hphosts_emd",
@@ -728,8 +728,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 2368,
-		"common": 103
+		"ips": 2372,
+		"common": 102
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -860,7 +860,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5242,
+		"ips": 5243,
 		"common": 1
 	},
 	{
@@ -898,6 +898,12 @@
 		"category": "attacks",
 		"ips": 23299,
 		"common": 3
+	},
+	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
 	},
 	{
 		"name": "socks_proxy_1d",
@@ -1034,25 +1040,25 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 1008,
+		"ips": 1007,
 		"common": 3
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1070,
+		"ips": 1067,
 		"common": 3
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2450,
+		"ips": 2448,
 		"common": 4
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1339,
+		"ips": 1338,
 		"common": 3
 	},
 	{
