@@ -63,7 +63,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 45114,
-		"common": 1078
+		"common": 1079
 	},
 	{
 		"name": "blocklist_de_bots",
@@ -81,7 +81,7 @@
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 19454,
-		"common": 1071
+		"common": 1072
 	},
 	{
 		"name": "blocklist_de_ssh",
@@ -236,7 +236,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 22773,
+		"ips": 22770,
 		"common": 1
 	},
 	{
@@ -314,8 +314,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50422,
-		"common": 20548
+		"ips": 50424,
+		"common": 20550
 	},
 	{
 		"name": "firehol_level1",
@@ -327,7 +327,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 55122,
-		"common": 1078
+		"common": 1079
 	},
 	{
 		"name": "firehol_level3",
@@ -344,8 +344,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37265,
-		"common": 20548
+		"ips": 37267,
+		"common": 20550
 	},
 	{
 		"name": "firehol_webclient",
@@ -579,7 +579,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 563850,
-		"common": 3375
+		"common": 3376
 	},
 	{
 		"name": "maxmind_proxy_fraud",
@@ -597,7 +597,7 @@
 		"name": "nixspam",
 		"category": "spam",
 		"ips": 33477,
-		"common": 434
+		"common": 435
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -890,14 +890,14 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2286,
-		"common": 2286
+		"ips": 2280,
+		"common": 2280
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 8032,
-		"common": 8032
+		"ips": 8034,
+		"common": 8034
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -954,9 +954,15 @@
 		"common": 3
 	},
 	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 100,
+		"common": 1
+	},
+	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 380,
+		"ips": 381,
 		"common": 8
 	},
 	{
@@ -968,7 +974,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2110,
+		"ips": 2109,
 		"common": 17
 	},
 	{
