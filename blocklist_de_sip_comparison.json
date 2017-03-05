@@ -56,7 +56,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44521,
+		"ips": 44540,
 		"common": 162
 	},
 	{
@@ -68,8 +68,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 19165,
-		"common": 8
+		"ips": 18843,
+		"common": 7
 	},
 	{
 		"name": "bruteforceblocker",
@@ -129,7 +129,7 @@
 		"name": "dataplane_sipquery",
 		"category": "attacks",
 		"ips": 443,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "dataplane_sipregistration",
@@ -141,13 +141,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 22731,
-		"common": 10
+		"common": 9
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 20707,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "dragon_http",
@@ -230,7 +230,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54326,
+		"ips": 54343,
 		"common": 162
 	},
 	{
@@ -242,8 +242,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9594402,
-		"common": 24
+		"ips": 9594082,
+		"common": 23
 	},
 	{
 		"name": "firehol_webclient",
@@ -309,6 +309,12 @@
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_isp_verizon",
+		"category": "organizations",
+		"ips": 18087936,
 		"common": 1
 	},
 	{
@@ -471,7 +477,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "sorbs_noserver",
@@ -573,6 +579,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 24468,
-		"common": 71
+		"common": 72
 	}
 ]
