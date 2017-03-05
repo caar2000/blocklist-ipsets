@@ -213,7 +213,7 @@
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
 		"ips": 315831,
-		"common": 2375
+		"common": 2378
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -254,8 +254,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50529,
-		"common": 8012
+		"ips": 50532,
+		"common": 8016
 	},
 	{
 		"name": "firehol_level2",
@@ -278,8 +278,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37378,
-		"common": 8012
+		"ips": 37381,
+		"common": 8016
 	},
 	{
 		"name": "firehol_webclient",
@@ -363,7 +363,7 @@
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 202
+		"common": 203
 	},
 	{
 		"name": "iblocklist_isp_embarq",
@@ -411,7 +411,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 211
+		"common": 212
 	},
 	{
 		"name": "iblocklist_level3",
@@ -471,7 +471,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 563850,
-		"common": 2016
+		"common": 2018
 	},
 	{
 		"name": "maxmind_proxy_fraud",
@@ -489,7 +489,7 @@
 		"name": "nixspam",
 		"category": "spam",
 		"ips": 30778,
-		"common": 447
+		"common": 448
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -770,20 +770,20 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2272,
-		"common": 2272
+		"ips": 2278,
+		"common": 2278
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 20622,
-		"common": 8013
+		"ips": 20625,
+		"common": 8017
 	},
 	{
 		"name": "sorbs_anonymizers",
 		"category": "spam",
 		"ips": 609175,
-		"common": 66
+		"common": 67
 	},
 	{
 		"name": "sorbs_dul",
@@ -807,7 +807,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 545338,
-		"common": 2252
+		"common": 2254
 	},
 	{
 		"name": "sorbs_web",
@@ -822,10 +822,16 @@
 		"common": 616
 	},
 	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 100,
+		"common": 1
+	},
+	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 406,
-		"common": 7
+		"ips": 407,
+		"common": 8
 	},
 	{
 		"name": "sslproxies_30d",
