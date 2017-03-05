@@ -152,7 +152,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 20305,
+		"ips": 20299,
 		"common": 1514
 	},
 	{
@@ -674,7 +674,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9595539,
+		"ips": 9595534,
 		"common": 3405
 	},
 	{
@@ -1664,19 +1664,31 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 385,
+		"ips": 386,
 		"common": 19
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 451,
+		"common": 3
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 451,
+		"common": 35
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 418,
+		"ips": 415,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 445,
+		"ips": 438,
 		"common": 2
 	},
 	{

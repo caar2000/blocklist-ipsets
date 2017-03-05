@@ -206,8 +206,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 20305,
-		"common": 241
+		"ips": 20299,
+		"common": 240
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -590,7 +590,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9595539,
+		"ips": 9595534,
 		"common": 2853
 	},
 	{
@@ -1424,32 +1424,38 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 385,
+		"ips": 386,
 		"common": 4
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 451,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 151,
+		"ips": 150,
 		"common": 3
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 418,
-		"common": 36
+		"ips": 415,
+		"common": 42
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 445,
+		"ips": 438,
 		"common": 5
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 347,
-		"common": 5
+		"ips": 345,
+		"common": 6
 	},
 	{
 		"name": "virbl",
