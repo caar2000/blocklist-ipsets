@@ -38,8 +38,8 @@
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
-		"ips": 3830,
-		"common": 40
+		"ips": 3835,
+		"common": 39
 	},
 	{
 		"name": "bi_ftp_2_30d",
@@ -128,26 +128,26 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 47,
-		"common": 15
+		"ips": 51,
+		"common": 14
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1148,
-		"common": 160
+		"ips": 1144,
+		"common": 163
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15003,
-		"common": 483
+		"ips": 14996,
+		"common": 486
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5005,
-		"common": 334
+		"ips": 5020,
+		"common": 337
 	},
 	{
 		"name": "cleanmx_phishing",
@@ -254,7 +254,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 7130,
+		"ips": 7127,
 		"common": 137
 	},
 	{
@@ -266,7 +266,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 308282,
+		"ips": 308304,
 		"common": 32
 	},
 	{
@@ -356,7 +356,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13419,
+		"ips": 13420,
 		"common": 2638
 	},
 	{
@@ -368,7 +368,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50390,
+		"ips": 50438,
 		"common": 242
 	},
 	{
@@ -380,7 +380,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54888,
+		"ips": 54874,
 		"common": 174
 	},
 	{
@@ -392,8 +392,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9591001,
-		"common": 608
+		"ips": 9590996,
+		"common": 611
 	},
 	{
 		"name": "firehol_proxies",
@@ -404,7 +404,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 22786,
+		"ips": 22784,
 		"common": 76
 	},
 	{
@@ -434,7 +434,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1460,
+		"ips": 1445,
 		"common": 21
 	},
 	{
@@ -902,7 +902,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5246,
+		"ips": 5243,
 		"common": 1
 	},
 	{
@@ -1202,25 +1202,31 @@
 	{
 		"name": "voipbl",
 		"category": "attacks",
-		"ips": 24468,
+		"ips": 24495,
+		"common": 1
+	},
+	{
+		"name": "xroxy",
+		"category": "anonymizers",
+		"ips": 56,
 		"common": 1
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 142,
+		"ips": 144,
 		"common": 3
 	},
 	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 409,
+		"ips": 410,
 		"common": 4
 	},
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 276,
+		"ips": 277,
 		"common": 4
 	}
 ]
