@@ -44,7 +44,7 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 68,
+		"ips": 65,
 		"common": 2
 	},
 	{
@@ -56,7 +56,7 @@
 	{
 		"name": "bambenek_necurs",
 		"category": "malware",
-		"ips": 2,
+		"ips": 1,
 		"common": 1
 	},
 	{
@@ -236,8 +236,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14762,
-		"common": 611
+		"ips": 14693,
+		"common": 603
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -350,8 +350,8 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 15739,
-		"common": 1170
+		"ips": 15882,
+		"common": 1183
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -482,8 +482,8 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 20695,
-		"common": 2222
+		"ips": 20741,
+		"common": 2224
 	},
 	{
 		"name": "dm_tor",
@@ -512,7 +512,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 316069,
+		"ips": 316068,
 		"common": 30861
 	},
 	{
@@ -572,7 +572,7 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 890,
+		"ips": 889,
 		"common": 31
 	},
 	{
@@ -776,26 +776,26 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656317594,
+		"ips": 656317593,
 		"common": 51856
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 57491,
+		"ips": 57498,
 		"common": 4352
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 152295,
-		"common": 11455
+		"ips": 152969,
+		"common": 11538
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9590270,
-		"common": 24901
+		"ips": 9590206,
+		"common": 24893
 	},
 	{
 		"name": "firehol_proxies",
@@ -806,7 +806,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 22831,
+		"ips": 22832,
 		"common": 2931
 	},
 	{
@@ -1232,8 +1232,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 29158,
-		"common": 3589
+		"ips": 29188,
+		"common": 3571
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1274,7 +1274,7 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 222,
+		"ips": 229,
 		"common": 18
 	},
 	{
@@ -1310,8 +1310,8 @@
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 145914,
-		"common": 12239
+		"ips": 145946,
+		"common": 12241
 	},
 	{
 		"name": "packetmail",
@@ -1418,26 +1418,26 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 647,
-		"common": 20
+		"ips": 675,
+		"common": 19
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 1644,
-		"common": 60
+		"ips": 1658,
+		"common": 59
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 5164,
+		"ips": 5163,
 		"common": 215
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 3190,
-		"common": 128
+		"ips": 3189,
+		"common": 129
 	},
 	{
 		"name": "proxyrss",
@@ -1488,28 +1488,22 @@
 		"common": 128
 	},
 	{
-		"name": "proxz",
-		"category": "anonymizers",
-		"ips": 26,
-		"common": 2
-	},
-	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 241,
-		"common": 7
+		"ips": 244,
+		"common": 6
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2058,
+		"ips": 2062,
 		"common": 75
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 841,
-		"common": 31
+		"ips": 842,
+		"common": 30
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -1520,19 +1514,19 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5242,
+		"ips": 5239,
 		"common": 41
 	},
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 554,
+		"ips": 555,
 		"common": 9
 	},
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 11597,
+		"ips": 11596,
 		"common": 1079
 	},
 	{
@@ -1544,7 +1538,7 @@
 	{
 		"name": "ransomware_torrentlocker_ps",
 		"category": "malware",
-		"ips": 166,
+		"ips": 165,
 		"common": 1
 	},
 	{
@@ -1808,8 +1802,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 23351,
-		"common": 2085
+		"ips": 23888,
+		"common": 2154
 	},
 	{
 		"name": "threatcrowd",

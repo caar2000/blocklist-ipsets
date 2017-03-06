@@ -74,7 +74,7 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 68,
+		"ips": 65,
 		"common": 1
 	},
 	{
@@ -218,7 +218,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14762,
+		"ips": 14693,
 		"common": 339
 	},
 	{
@@ -302,7 +302,7 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 15739,
+		"ips": 15882,
 		"common": 1
 	},
 	{
@@ -428,7 +428,7 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 20695,
+		"ips": 20741,
 		"common": 4
 	},
 	{
@@ -452,7 +452,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 316069,
+		"ips": 316068,
 		"common": 185
 	},
 	{
@@ -518,7 +518,7 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 890,
+		"ips": 889,
 		"common": 1
 	},
 	{
@@ -722,25 +722,25 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656317594,
-		"common": 746
+		"ips": 656317593,
+		"common": 747
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 57491,
+		"ips": 57498,
 		"common": 92
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 152295,
+		"ips": 152969,
 		"common": 3146
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9590270,
+		"ips": 9590206,
 		"common": 19232
 	},
 	{
@@ -753,7 +753,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34490831,
-		"common": 2677
+		"common": 2676
 	},
 	{
 		"name": "fullbogons",
@@ -765,7 +765,7 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095577,
-		"common": 403
+		"common": 402
 	},
 	{
 		"name": "gpf_comics",
@@ -879,7 +879,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 1035
+		"common": 1037
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -1005,7 +1005,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 576
+		"common": 575
 	},
 	{
 		"name": "iblocklist_level3",
@@ -1154,8 +1154,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 29158,
-		"common": 30
+		"ips": 29188,
+		"common": 34
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1202,7 +1202,7 @@
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 145914,
+		"ips": 145946,
 		"common": 137
 	},
 	{
@@ -1292,25 +1292,25 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 647,
+		"ips": 675,
 		"common": 1
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 1644,
+		"ips": 1658,
 		"common": 1
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 5164,
+		"ips": 5163,
 		"common": 2
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 3190,
+		"ips": 3189,
 		"common": 1
 	},
 	{
@@ -1346,32 +1346,32 @@
 	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 241,
+		"ips": 244,
 		"common": 1
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2058,
+		"ips": 2062,
 		"common": 1
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 841,
+		"ips": 842,
 		"common": 1
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34247816,
-		"common": 1712
+		"common": 1711
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5242,
-		"common": 586
+		"ips": 5239,
+		"common": 587
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -1382,14 +1382,14 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 554,
-		"common": 554
+		"ips": 555,
+		"common": 555
 	},
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 11597,
-		"common": 133
+		"ips": 11596,
+		"common": 134
 	},
 	{
 		"name": "ransomware_teslacrypt_ps",
@@ -1406,7 +1406,7 @@
 	{
 		"name": "ransomware_torrentlocker_ps",
 		"category": "malware",
-		"ips": 166,
+		"ips": 165,
 		"common": 5
 	},
 	{
@@ -1610,8 +1610,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 23351,
-		"common": 526
+		"ips": 23888,
+		"common": 527
 	},
 	{
 		"name": "threatcrowd",
