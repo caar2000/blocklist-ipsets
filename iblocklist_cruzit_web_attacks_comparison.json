@@ -87,13 +87,13 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 46404,
-		"common": 23
+		"common": 24
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
 		"ips": 13740,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "blocklist_de_bots",
@@ -105,7 +105,7 @@
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
 		"ips": 5027,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "blocklist_de_imap",
@@ -135,7 +135,7 @@
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 15502,
-		"common": 40
+		"common": 41
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -279,7 +279,7 @@
 		"name": "cruzit_web_attacks",
 		"category": "attacks",
 		"ips": 6610,
-		"common": 6601
+		"common": 6602
 	},
 	{
 		"name": "cta_cryptowall",
@@ -302,7 +302,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 451,
+		"ips": 452,
 		"common": 3
 	},
 	{
@@ -452,7 +452,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50114,
+		"ips": 50116,
 		"common": 28
 	},
 	{
@@ -465,30 +465,30 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 57472,
-		"common": 49
+		"common": 50
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 153477,
+		"ips": 153483,
 		"common": 133
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9590826,
-		"common": 6601
+		"common": 6602
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37011,
+		"ips": 37013,
 		"common": 19
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 22804,
+		"ips": 22805,
 		"common": 111
 	},
 	{
@@ -610,6 +610,12 @@
 		"category": "organizations",
 		"ips": 227983648,
 		"common": 141
+	},
+	{
+		"name": "iblocklist_exclusions",
+		"category": "reputation",
+		"ips": 7427,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_hijacked",
@@ -1076,7 +1082,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 20329,
+		"ips": 20331,
 		"common": 3
 	},
 	{
