@@ -92,7 +92,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14813,
+		"ips": 14799,
 		"common": 63
 	},
 	{
@@ -200,7 +200,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 316067,
+		"ips": 316068,
 		"common": 8
 	},
 	{
@@ -272,7 +272,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 57654,
+		"ips": 57398,
 		"common": 22
 	},
 	{
@@ -284,7 +284,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9590312,
+		"ips": 9590301,
 		"common": 127
 	},
 	{
@@ -723,6 +723,12 @@
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
 		"ips": 1315,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 235,
 		"common": 2
 	},
 	{
