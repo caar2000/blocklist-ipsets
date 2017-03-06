@@ -128,8 +128,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15326,
-		"common": 69
+		"ips": 15308,
+		"common": 62
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -482,7 +482,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9590762,
+		"ips": 9590754,
 		"common": 507
 	},
 	{
@@ -1056,6 +1056,18 @@
 		"common": 2
 	},
 	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 100,
+		"common": 1
+	},
+	{
+		"name": "sslproxies_1d",
+		"category": "anonymizers",
+		"ips": 404,
+		"common": 1
+	},
+	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
 		"ips": 6339,
@@ -1064,8 +1076,8 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1785,
-		"common": 1
+		"ips": 1781,
+		"common": 2
 	},
 	{
 		"name": "stopforumspam",
