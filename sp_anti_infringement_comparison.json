@@ -80,7 +80,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1409,
+		"ips": 1408,
 		"common": 147
 	},
 	{
@@ -1232,8 +1232,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 35369,
-		"common": 2332
+		"ips": 35396,
+		"common": 2259
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1324,6 +1324,12 @@
 		"category": "reputation",
 		"ips": 550,
 		"common": 78
+	},
+	{
+		"name": "packetmail_emerging_ips",
+		"category": "reputation",
+		"ips": 57,
+		"common": 1
 	},
 	{
 		"name": "packetmail_mail",
@@ -1850,31 +1856,31 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 73,
+		"ips": 74,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 381,
-		"common": 38
+		"ips": 385,
+		"common": 40
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 354,
-		"common": 34
+		"ips": 352,
+		"common": 35
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
 		"ips": 450,
-		"common": 28
+		"common": 33
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 106,
+		"ips": 107,
 		"common": 2
 	},
 	{
@@ -1892,20 +1898,20 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 446,
-		"common": 75
+		"ips": 448,
+		"common": 136
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 449,
-		"common": 49
+		"ips": 443,
+		"common": 121
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 337,
-		"common": 28
+		"ips": 335,
+		"common": 29
 	},
 	{
 		"name": "urlvir",

@@ -668,8 +668,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 35369,
-		"common": 7
+		"ips": 35396,
+		"common": 6
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1065,7 +1065,19 @@
 		"name": "urandomusto_mailer",
 		"category": "spam",
 		"ips": 450,
-		"common": 5
+		"common": 4
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 448,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 443,
+		"common": 1
 	},
 	{
 		"name": "voipbl",

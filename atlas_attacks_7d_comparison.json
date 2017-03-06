@@ -56,7 +56,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1409,
+		"ips": 1408,
 		"common": 1
 	},
 	{
@@ -314,7 +314,7 @@
 	{
 		"name": "packetmail_emerging_ips",
 		"category": "reputation",
-		"ips": 56,
+		"ips": 57,
 		"common": 1
 	},
 	{
@@ -398,13 +398,13 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 73,
+		"ips": 74,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 106,
+		"ips": 107,
 		"common": 3
 	},
 	{
@@ -420,9 +420,15 @@
 		"common": 1
 	},
 	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 443,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 337,
+		"ips": 335,
 		"common": 1
 	},
 	{
