@@ -1132,7 +1132,7 @@
 [ -f 'stopforumspam_1d.ipset' ] && /usr/bin/touch --date=@1488775507 'stopforumspam_1d.ipset'
 [ -f 'stopforumspam_30d.ipset' ] && /usr/bin/touch --date=@1488757807 'stopforumspam_30d.ipset'
 [ -f 'stopforumspam_365d.ipset' ] && /usr/bin/touch --date=@1488714643 'stopforumspam_365d.ipset'
-[ -f 'stopforumspam_7d.ipset' ] && /usr/bin/touch --date=@1488691809 'stopforumspam_7d.ipset'
+[ -f 'stopforumspam_7d.ipset' ] && /usr/bin/touch --date=@1488778210 'stopforumspam_7d.ipset'
 [ -f 'stopforumspam_90d.ipset' ] && /usr/bin/touch --date=@1488757815 'stopforumspam_90d.ipset'
 [ -f 'stopforumspam_toxic.netset' ] && /usr/bin/touch --date=@1467303042 'stopforumspam_toxic.netset'
 [ -f 'taichung.ipset' ] && /usr/bin/touch --date=@1488713085 'taichung.ipset'
