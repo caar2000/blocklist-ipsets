@@ -32,32 +32,32 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 45703,
+		"ips": 45856,
 		"common": 126
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 13286,
+		"ips": 13327,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1375,
-		"common": 81
+		"ips": 1384,
+		"common": 77
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 4555,
+		"ips": 4601,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 19211,
-		"common": 44
+		"ips": 19241,
+		"common": 48
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -260,7 +260,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50188,
+		"ips": 50186,
 		"common": 2862
 	},
 	{
@@ -272,7 +272,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 56831,
+		"ips": 56985,
 		"common": 126
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37091,
+		"ips": 37089,
 		"common": 2871
 	},
 	{
@@ -756,9 +756,15 @@
 		"common": 4
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2121,
+		"ips": 2133,
 		"common": 9
 	},
 	{
@@ -770,7 +776,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 8037,
+		"ips": 8028,
 		"common": 12
 	},
 	{
@@ -842,19 +848,19 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 371,
+		"ips": 368,
 		"common": 30
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 6307,
+		"ips": 6305,
 		"common": 376
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2002,
+		"ips": 1990,
 		"common": 113
 	},
 	{
@@ -926,13 +932,13 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 383,
+		"ips": 382,
 		"common": 3
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 388,
+		"ips": 386,
 		"common": 7
 	},
 	{
