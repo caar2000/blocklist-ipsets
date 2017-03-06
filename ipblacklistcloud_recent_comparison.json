@@ -2,7 +2,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13750,
+		"ips": 13738,
 		"common": 4
 	},
 	{
@@ -14,13 +14,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589390,
+		"ips": 9589380,
 		"common": 32
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 22835,
+		"ips": 22832,
 		"common": 7
 	},
 	{
@@ -99,6 +99,12 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 256,
 		"common": 1
 	}
 ]
