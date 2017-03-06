@@ -195,7 +195,7 @@
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
 		"ips": 11852,
-		"common": 188
+		"common": 189
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -206,8 +206,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50104,
-		"common": 367
+		"ips": 50097,
+		"common": 368
 	},
 	{
 		"name": "firehol_level2",
@@ -230,8 +230,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37004,
-		"common": 367
+		"ips": 36997,
+		"common": 368
 	},
 	{
 		"name": "firehol_webserver",
@@ -344,8 +344,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 35378,
-		"common": 10
+		"ips": 35495,
+		"common": 12
 	},
 	{
 		"name": "openbl_360d",
@@ -558,27 +558,21 @@
 		"common": 1
 	},
 	{
-		"name": "socks_proxy",
-		"category": "anonymizers",
-		"ips": 80,
-		"common": 2
-	},
-	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2100,
+		"ips": 2106,
 		"common": 9
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 20323,
+		"ips": 20317,
 		"common": 9
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 8023,
+		"ips": 8025,
 		"common": 9
 	},
 	{
@@ -632,14 +626,14 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 6294,
-		"common": 367
+		"ips": 6293,
+		"common": 368
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1903,
-		"common": 367
+		"ips": 1904,
+		"common": 368
 	},
 	{
 		"name": "stopforumspam",
@@ -657,13 +651,13 @@
 		"name": "stopforumspam_1d",
 		"category": "abuse",
 		"ips": 4830,
-		"common": 175
+		"common": 176
 	},
 	{
 		"name": "stopforumspam_30d",
 		"category": "abuse",
 		"ips": 64620,
-		"common": 230
+		"common": 231
 	},
 	{
 		"name": "stopforumspam_365d",
@@ -675,13 +669,13 @@
 		"name": "stopforumspam_7d",
 		"category": "abuse",
 		"ips": 22240,
-		"common": 220
+		"common": 221
 	},
 	{
 		"name": "stopforumspam_90d",
 		"category": "abuse",
 		"ips": 160758,
-		"common": 233
+		"common": 234
 	},
 	{
 		"name": "talosintel_ipfilter",
