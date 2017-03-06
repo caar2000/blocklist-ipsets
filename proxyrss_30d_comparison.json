@@ -362,7 +362,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50201,
+		"ips": 50189,
 		"common": 5115
 	},
 	{
@@ -386,7 +386,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37078,
+		"ips": 37066,
 		"common": 5129
 	},
 	{
@@ -888,15 +888,21 @@
 		"common": 4
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2129,
+		"ips": 2128,
 		"common": 21
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 20400,
+		"ips": 20388,
 		"common": 40
 	},
 	{
@@ -1064,8 +1070,8 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 371,
-		"common": 12
+		"ips": 370,
+		"common": 11
 	},
 	{
 		"name": "urandomusto_mailer",
