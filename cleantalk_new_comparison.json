@@ -44,7 +44,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15308,
+		"ips": 15309,
 		"common": 3
 	},
 	{
@@ -92,44 +92,44 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2765,
-		"common": 765
+		"ips": 2772,
+		"common": 772
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6262,
-		"common": 753
+		"ips": 6276,
+		"common": 760
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 61461,
-		"common": 735
+		"ips": 61466,
+		"common": 743
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 16698,
-		"common": 747
+		"ips": 16701,
+		"common": 754
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 1509,
-		"common": 765
+		"ips": 1511,
+		"common": 772
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 26803,
-		"common": 765
+		"ips": 26808,
+		"common": 772
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 5652,
-		"common": 765
+		"ips": 5648,
+		"common": 772
 	},
 	{
 		"name": "dm_tor",
@@ -212,20 +212,20 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13946,
-		"common": 765
+		"ips": 13954,
+		"common": 772
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 216413,
-		"common": 765
+		"ips": 216427,
+		"common": 772
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
 		"ips": 50255,
-		"common": 27
+		"common": 28
 	},
 	{
 		"name": "firehol_level1",
@@ -248,7 +248,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9590581,
+		"ips": 9590583,
 		"common": 43
 	},
 	{
@@ -261,7 +261,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34490685,
-		"common": 104
+		"common": 106
 	},
 	{
 		"name": "fullbogons",
@@ -273,7 +273,7 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095575,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "iblocklist_ads",
@@ -285,7 +285,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 44
+		"common": 46
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
@@ -423,7 +423,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34247816,
-		"common": 104
+		"common": 106
 	},
 	{
 		"name": "ri_connect_proxies",
@@ -621,24 +621,30 @@
 		"name": "tor_exits",
 		"category": "anonymizers",
 		"ips": 1004,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
 		"ips": 1051,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
 		"ips": 2436,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
 		"ips": 1330,
-		"common": 10
+		"common": 11
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 24495,
+		"common": 1
 	}
 ]
