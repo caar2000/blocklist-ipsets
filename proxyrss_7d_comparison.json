@@ -38,8 +38,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 47079,
-		"common": 256
+		"ips": 46852,
+		"common": 255
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -68,7 +68,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 19827,
+		"ips": 19723,
 		"common": 3
 	},
 	{
@@ -80,7 +80,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14876,
+		"ips": 14845,
 		"common": 117
 	},
 	{
@@ -117,43 +117,43 @@
 		"name": "bm_tor",
 		"category": "anonymizers",
 		"ips": 7117,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 51,
-		"common": 2
+		"ips": 32,
+		"common": 1
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1108,
-		"common": 31
+		"ips": 1122,
+		"common": 32
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15074,
+		"ips": 15070,
 		"common": 406
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5074,
-		"common": 142
+		"ips": 5081,
+		"common": 143
 	},
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2636,
-		"common": 52
+		"ips": 2650,
+		"common": 54
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6355,
-		"common": 137
+		"ips": 6375,
+		"common": 138
 	},
 	{
 		"name": "cleantalk_30d",
@@ -164,43 +164,43 @@
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 16749,
+		"ips": 16767,
 		"common": 239
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 26634,
+		"ips": 26629,
 		"common": 5
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 5682,
+		"ips": 5695,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 52
+		"common": 54
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5598,
-		"common": 137
+		"ips": 5609,
+		"common": 138
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 45780,
+		"ips": 45782,
 		"common": 797
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 13917,
+		"ips": 13918,
 		"common": 238
 	},
 	{
@@ -242,7 +242,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 7119,
+		"ips": 7114,
 		"common": 2
 	},
 	{
@@ -260,7 +260,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 308313,
+		"ips": 308312,
 		"common": 307
 	},
 	{
@@ -326,26 +326,26 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13217,
-		"common": 329
+		"ips": 13249,
+		"common": 331
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 218058,
+		"ips": 218063,
 		"common": 1852
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50082,
+		"ips": 50057,
 		"common": 3167
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 59283,
-		"common": 261
+		"ips": 59092,
+		"common": 260
 	},
 	{
 		"name": "firehol_level3",
@@ -356,13 +356,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9590370,
+		"ips": 9590335,
 		"common": 477
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 36946,
+		"ips": 36957,
 		"common": 3171
 	},
 	{
@@ -392,7 +392,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1343,
+		"ips": 1399,
 		"common": 9
 	},
 	{
@@ -566,7 +566,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 28536,
+		"ips": 28904,
 		"common": 15
 	},
 	{
@@ -734,26 +734,26 @@
 	{
 		"name": "proxyspy",
 		"category": "anonymizers",
-		"ips": 298,
-		"common": 108
+		"ips": 299,
+		"common": 104
 	},
 	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 1148,
-		"common": 455
+		"ips": 1138,
+		"common": 442
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 7037,
-		"common": 1806
+		"ips": 7045,
+		"common": 1807
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 2962,
-		"common": 1155
+		"ips": 2948,
+		"common": 1144
 	},
 	{
 		"name": "proxz",
