@@ -50,8 +50,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15428,
-		"common": 33
+		"ips": 15401,
+		"common": 32
 	},
 	{
 		"name": "botscout",
@@ -206,14 +206,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50125,
+		"ips": 50201,
 		"common": 369
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 56927,
-		"common": 106
+		"ips": 56911,
+		"common": 107
 	},
 	{
 		"name": "firehol_level3",
@@ -224,7 +224,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9590738,
+		"ips": 9590713,
 		"common": 146
 	},
 	{
@@ -244,6 +244,12 @@
 		"category": "attacks",
 		"ips": 1095576,
 		"common": 7
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 1878,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_badpeers",
