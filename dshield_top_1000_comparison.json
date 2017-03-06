@@ -62,7 +62,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1441,
+		"ips": 1435,
 		"common": 41
 	},
 	{
@@ -344,7 +344,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11379,
+		"ips": 11470,
 		"common": 1
 	},
 	{
@@ -362,7 +362,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656324533,
+		"ips": 656324520,
 		"common": 84
 	},
 	{
@@ -710,7 +710,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4254,
+		"ips": 4355,
 		"common": 1
 	},
 	{
@@ -776,20 +776,26 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 71,
-		"common": 19
+		"ips": 73,
+		"common": 20
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 382,
-		"common": 10
+		"ips": 384,
+		"common": 12
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 386,
+		"ips": 371,
 		"common": 11
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 451,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -806,31 +812,31 @@
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 58,
+		"ips": 59,
 		"common": 14
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 311,
-		"common": 25
+		"ips": 365,
+		"common": 19
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 436,
-		"common": 1
+		"ips": 446,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 341,
-		"common": 17
+		"ips": 338,
+		"common": 18
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 40,
+		"ips": 41,
 		"common": 5
 	},
 	{

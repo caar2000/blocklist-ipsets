@@ -38,7 +38,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 340,
+		"ips": 327,
 		"common": 1
 	},
 	{
@@ -62,8 +62,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1441,
-		"common": 63
+		"ips": 1435,
+		"common": 64
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -758,8 +758,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11379,
-		"common": 6558
+		"ips": 11470,
+		"common": 6609
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -776,7 +776,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656324533,
+		"ips": 656324520,
 		"common": 10594
 	},
 	{
@@ -1238,8 +1238,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 32814,
-		"common": 724
+		"ips": 33053,
+		"common": 722
 	},
 	{
 		"name": "nt_malware_http",
@@ -1790,8 +1790,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4254,
-		"common": 3252
+		"ips": 4355,
+		"common": 3307
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1874,26 +1874,26 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 71,
+		"ips": 73,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 382,
-		"common": 24
+		"ips": 384,
+		"common": 25
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 386,
-		"common": 95
+		"ips": 371,
+		"common": 86
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
 		"ips": 451,
-		"common": 67
+		"common": 71
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -1910,19 +1910,25 @@
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 58,
+		"ips": 59,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 365,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 436,
-		"common": 2
+		"ips": 446,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 341,
+		"ips": 338,
 		"common": 2
 	},
 	{
