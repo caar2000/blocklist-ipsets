@@ -596,7 +596,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 22873,
+		"ips": 22874,
 		"common": 191
 	},
 	{
@@ -1238,7 +1238,7 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 420,
+		"ips": 422,
 		"common": 1
 	},
 	{
@@ -1250,7 +1250,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1670,
+		"ips": 1671,
 		"common": 1
 	},
 	{
@@ -1358,13 +1358,13 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 386,
+		"ips": 385,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 258,
+		"ips": 266,
 		"common": 1
 	},
 	{
@@ -1376,8 +1376,20 @@
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 64,
+		"ips": 65,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 448,
+		"common": 3
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 447,
+		"common": 2
 	},
 	{
 		"name": "voipbl",

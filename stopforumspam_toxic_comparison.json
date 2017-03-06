@@ -626,7 +626,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 22873,
+		"ips": 22874,
 		"common": 74
 	},
 	{
@@ -1292,19 +1292,13 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 77,
-		"common": 1
-	},
-	{
-		"name": "urandomusto_ftp",
-		"category": "attacks",
-		"ips": 386,
+		"ips": 79,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 258,
+		"ips": 266,
 		"common": 10
 	},
 	{
@@ -1314,9 +1308,15 @@
 		"common": 6
 	},
 	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 448,
+		"common": 2
+	},
+	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 308,
+		"ips": 305,
 		"common": 2
 	},
 	{

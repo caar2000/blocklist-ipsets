@@ -494,7 +494,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 22873,
+		"ips": 22874,
 		"common": 34
 	},
 	{
@@ -950,7 +950,7 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 554,
+		"ips": 555,
 		"common": 1
 	},
 	{
@@ -1056,9 +1056,15 @@
 		"common": 4
 	},
 	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 100,
+		"common": 1
+	},
+	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 420,
+		"ips": 422,
 		"common": 1
 	},
 	{
@@ -1070,7 +1076,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1670,
+		"ips": 1671,
 		"common": 1
 	},
 	{
@@ -1154,20 +1160,20 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 77,
+		"ips": 79,
 		"common": 3
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 386,
-		"common": 46
+		"ips": 385,
+		"common": 47
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 258,
-		"common": 23
+		"ips": 266,
+		"common": 24
 	},
 	{
 		"name": "urandomusto_mailer",
@@ -1190,25 +1196,25 @@
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 64,
+		"ips": 65,
 		"common": 3
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 445,
-		"common": 1
+		"ips": 448,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 450,
-		"common": 1
+		"ips": 447,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 308,
+		"ips": 305,
 		"common": 3
 	},
 	{
