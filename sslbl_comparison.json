@@ -2,7 +2,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 45682,
+		"ips": 45703,
 		"common": 1
 	},
 	{
@@ -18,22 +18,16 @@
 		"common": 1
 	},
 	{
-		"name": "blocklist_net_ua",
-		"category": "abuse",
-		"ips": 15431,
-		"common": 1
-	},
-	{
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 25160316,
-		"common": 21
+		"common": 19
 	},
 	{
 		"name": "feodo",
 		"category": "malware",
 		"ips": 763,
-		"common": 21
+		"common": 19
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -45,31 +39,25 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 656324541,
-		"common": 126
+		"common": 124
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 56810,
+		"ips": 56831,
 		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 154347,
-		"common": 126
-	},
-	{
-		"name": "firehol_level4",
-		"category": "attacks",
-		"ips": 9590712,
-		"common": 1
+		"common": 124
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 22804,
-		"common": 126
+		"ips": 22805,
+		"common": 124
 	},
 	{
 		"name": "firehol_webserver",
@@ -141,7 +129,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762559961,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "iblocklist_level2",
@@ -153,7 +141,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "iblocklist_org_microsoft",
@@ -183,7 +171,7 @@
 		"name": "snort_ipfilter",
 		"category": "attacks",
 		"ips": 23364,
-		"common": 17
+		"common": 15
 	},
 	{
 		"name": "sorbs_dul",
@@ -219,7 +207,7 @@
 		"name": "sslbl_aggressive",
 		"category": "malware",
 		"ips": 2620,
-		"common": 126
+		"common": 124
 	},
 	{
 		"name": "stopforumspam",
@@ -249,6 +237,6 @@
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
 		"ips": 23360,
-		"common": 17
+		"common": 15
 	}
 ]

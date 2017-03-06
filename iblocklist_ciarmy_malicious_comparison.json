@@ -122,7 +122,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 45682,
+		"ips": 45703,
 		"common": 103
 	},
 	{
@@ -158,13 +158,13 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 19438,
+		"ips": 19413,
 		"common": 32
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15431,
+		"ips": 15428,
 		"common": 5
 	},
 	{
@@ -422,7 +422,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 56810,
+		"ips": 56831,
 		"common": 547
 	},
 	{
@@ -434,7 +434,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9590712,
+		"ips": 9590716,
 		"common": 37
 	},
 	{
@@ -442,6 +442,12 @@
 		"category": "anonymizers",
 		"ips": 37109,
 		"common": 2
+	},
+	{
+		"name": "firehol_webclient",
+		"category": "malware",
+		"ips": 22805,
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
@@ -668,8 +674,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 32186,
-		"common": 8
+		"ips": 32189,
+		"common": 10
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -782,7 +788,13 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5241,
+		"ips": 5240,
+		"common": 2
+	},
+	{
+		"name": "ransomware_online",
+		"category": "malware",
+		"ips": 552,
 		"common": 1
 	},
 	{
