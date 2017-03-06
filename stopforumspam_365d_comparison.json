@@ -50,8 +50,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1412,
-		"common": 64
+		"ips": 1411,
+		"common": 63
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -1226,8 +1226,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 34950,
-		"common": 686
+		"ips": 34594,
+		"common": 887
 	},
 	{
 		"name": "nt_malware_http",
@@ -1526,7 +1526,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5241,
+		"ips": 5240,
 		"common": 24
 	},
 	{
@@ -1868,44 +1868,50 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 384,
+		"ips": 385,
 		"common": 32
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 323,
-		"common": 70
+		"ips": 298,
+		"common": 64
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 450,
-		"common": 68
+		"ips": 447,
+		"common": 66
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 110,
+		"ips": 109,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 149,
+		"ips": 150,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 59,
+		"ips": 61,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 446,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 334,
-		"common": 3
+		"ips": 336,
+		"common": 4
 	},
 	{
 		"name": "urlvir",
