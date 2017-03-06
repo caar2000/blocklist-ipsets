@@ -44,13 +44,13 @@
 	{
 		"name": "bi_mail_2_30d",
 		"category": "attacks",
-		"ips": 350,
-		"common": 13
+		"ips": 354,
+		"common": 11
 	},
 	{
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
-		"ips": 6856,
+		"ips": 6862,
 		"common": 12
 	},
 	{
@@ -1460,8 +1460,14 @@
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 447,
-		"common": 3
+		"ips": 448,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 442,
+		"common": 2
 	},
 	{
 		"name": "voipbl",
