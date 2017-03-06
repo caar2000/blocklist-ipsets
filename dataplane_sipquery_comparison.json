@@ -38,7 +38,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1437,
+		"ips": 1434,
 		"common": 8
 	},
 	{
@@ -86,37 +86,37 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 45488,
-		"common": 27
+		"ips": 45508,
+		"common": 29
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 13091,
+		"ips": 13122,
 		"common": 9
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2063,
+		"ips": 2050,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 19348,
+		"ips": 19330,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 211,
-		"common": 14
+		"ips": 213,
+		"common": 16
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 19333,
+		"ips": 19331,
 		"common": 1
 	},
 	{
@@ -134,8 +134,8 @@
 	{
 		"name": "dataplane_sipinvitation",
 		"category": "attacks",
-		"ips": 26,
-		"common": 1
+		"ips": 28,
+		"common": 3
 	},
 	{
 		"name": "dataplane_sipregistration",
@@ -218,7 +218,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50308,
+		"ips": 50304,
 		"common": 1
 	},
 	{
@@ -230,8 +230,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 55976,
-		"common": 44
+		"ips": 55997,
+		"common": 46
 	},
 	{
 		"name": "firehol_level3",
@@ -242,13 +242,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9590706,
+		"ips": 9590633,
 		"common": 4
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37199,
+		"ips": 37195,
 		"common": 1
 	},
 	{
@@ -261,7 +261,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34490685,
-		"common": 102
+		"common": 103
 	},
 	{
 		"name": "gofferje_sip",
@@ -333,7 +333,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762559961,
-		"common": 51
+		"common": 52
 	},
 	{
 		"name": "iblocklist_level2",
@@ -453,7 +453,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34247816,
-		"common": 100
+		"common": 101
 	},
 	{
 		"name": "shunlist",
@@ -483,7 +483,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "spamhaus_drop",
@@ -579,6 +579,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 24495,
-		"common": 242
+		"common": 243
 	}
 ]
