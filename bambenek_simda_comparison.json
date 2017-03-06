@@ -51,25 +51,25 @@
 		"name": "blueliv_crimeserver_last_30d",
 		"category": "attacks",
 		"ips": 31222,
-		"common": 32
+		"common": 33
 	},
 	{
 		"name": "blueliv_crimeserver_last_7d",
 		"category": "attacks",
 		"ips": 13872,
-		"common": 20
+		"common": 19
 	},
 	{
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 30542,
-		"common": 26
+		"common": 25
 	},
 	{
 		"name": "cleanmx_phishing",
 		"category": "spam",
 		"ips": 4519,
-		"common": 12
+		"common": 11
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -117,7 +117,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34490685,
-		"common": 69
+		"common": 72
 	},
 	{
 		"name": "gofferje_sip",
@@ -129,25 +129,31 @@
 		"name": "hphosts_ats",
 		"category": "organizations",
 		"ips": 15676,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 24239,
-		"common": 37
+		"common": 39
 	},
 	{
 		"name": "hphosts_exp",
 		"category": "malware",
 		"ips": 314,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "hphosts_fsa",
 		"category": "reputation",
 		"ips": 35167,
-		"common": 44
+		"common": 45
+	},
+	{
+		"name": "hphosts_grm",
+		"category": "spam",
+		"ips": 309,
+		"common": 1
 	},
 	{
 		"name": "hphosts_hjk",
@@ -165,13 +171,13 @@
 		"name": "hphosts_pha",
 		"category": "reputation",
 		"ips": 1776,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 23158,
-		"common": 36
+		"common": 39
 	},
 	{
 		"name": "hphosts_wrz",
@@ -201,7 +207,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 2
+		"common": 4
 	},
 	{
 		"name": "iblocklist_level3",
@@ -225,7 +231,7 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 77
+		"common": 79
 	},
 	{
 		"name": "jigsaw_malware",
@@ -243,24 +249,18 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34247816,
-		"common": 30
+		"common": 31
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 5241,
-		"common": 21
+		"common": 22
 	},
 	{
 		"name": "ransomware_locky_c2",
 		"category": "malware",
 		"ips": 249,
-		"common": 1
-	},
-	{
-		"name": "sorbs_dul",
-		"category": "spam",
-		"ips": 375226662,
 		"common": 1
 	},
 	{
