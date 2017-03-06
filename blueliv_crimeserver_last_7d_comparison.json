@@ -44,7 +44,7 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 63,
+		"ips": 65,
 		"common": 12
 	},
 	{
@@ -158,31 +158,37 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 47391,
-		"common": 7
+		"ips": 47285,
+		"common": 8
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1487,
+		"ips": 1473,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 543,
+		"ips": 537,
 		"common": 3
+	},
+	{
+		"name": "blocklist_de_imap",
+		"category": "attacks",
+		"ips": 1760,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18643,
-		"common": 1
+		"ips": 18651,
+		"common": 2
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 20662,
+		"ips": 20639,
 		"common": 2
 	},
 	{
@@ -494,8 +500,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 57375,
-		"common": 11
+		"ips": 57269,
+		"common": 12
 	},
 	{
 		"name": "firehol_level3",
@@ -854,7 +860,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 29455,
+		"ips": 29463,
 		"common": 2
 	},
 	{
@@ -920,25 +926,25 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 668,
+		"ips": 688,
 		"common": 1
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 1681,
+		"ips": 1672,
 		"common": 2
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 5157,
+		"ips": 5145,
 		"common": 2
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 3192,
+		"ips": 3189,
 		"common": 2
 	},
 	{
@@ -986,7 +992,7 @@
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2061,
+		"ips": 2057,
 		"common": 1
 	},
 	{
@@ -998,7 +1004,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5241,
+		"ips": 5243,
 		"common": 220
 	},
 	{
