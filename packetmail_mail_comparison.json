@@ -50,7 +50,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14317,
+		"ips": 14343,
 		"common": 1
 	},
 	{
@@ -82,6 +82,18 @@
 		"category": "attacks",
 		"ips": 8562,
 		"common": 3
+	},
+	{
+		"name": "dataplane_sshclient",
+		"category": "attacks",
+		"ips": 23075,
+		"common": 1
+	},
+	{
+		"name": "dataplane_sshpwauth",
+		"category": "attacks",
+		"ips": 21013,
+		"common": 1
 	},
 	{
 		"name": "dronebl_anonymizers",
@@ -122,7 +134,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589866,
+		"ips": 9589896,
 		"common": 3
 	},
 	{

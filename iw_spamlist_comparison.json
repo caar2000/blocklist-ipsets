@@ -26,7 +26,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14317,
+		"ips": 14343,
 		"common": 16
 	},
 	{
@@ -117,6 +117,18 @@
 		"name": "darklist_de",
 		"category": "attacks",
 		"ips": 8562,
+		"common": 1
+	},
+	{
+		"name": "dataplane_sshclient",
+		"category": "attacks",
+		"ips": 23075,
+		"common": 1
+	},
+	{
+		"name": "dataplane_sshpwauth",
+		"category": "attacks",
+		"ips": 21013,
 		"common": 1
 	},
 	{
@@ -218,7 +230,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589866,
+		"ips": 9589896,
 		"common": 23
 	},
 	{
@@ -546,15 +558,9 @@
 		"common": 6
 	},
 	{
-		"name": "socks_proxy",
-		"category": "anonymizers",
-		"ips": 80,
-		"common": 1
-	},
-	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2022,
+		"ips": 2014,
 		"common": 3
 	},
 	{
@@ -566,7 +572,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 7992,
+		"ips": 7976,
 		"common": 5
 	},
 	{
