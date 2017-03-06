@@ -62,13 +62,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 61434,
+		"ips": 61444,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 45766,
+		"ips": 45770,
 		"common": 1
 	},
 	{
@@ -86,13 +86,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12492,
+		"ips": 12506,
 		"common": 1
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 218049,
+		"ips": 218060,
 		"common": 2
 	},
 	{
@@ -104,7 +104,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 57440,
+		"ips": 57439,
 		"common": 13
 	},
 	{
@@ -351,6 +351,12 @@
 		"name": "urandomusto_ftp",
 		"category": "attacks",
 		"ips": 385,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 447,
 		"common": 1
 	}
 ]
