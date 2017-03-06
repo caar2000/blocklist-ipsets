@@ -230,7 +230,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 22628,
+		"ips": 22635,
 		"common": 1
 	},
 	{
@@ -918,9 +918,15 @@
 		"common": 3
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2113,
+		"ips": 2121,
 		"common": 16
 	},
 	{
@@ -993,7 +999,7 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 25
+		"common": 26
 	},
 	{
 		"name": "sslproxies_1d",
@@ -1004,14 +1010,14 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 6295,
-		"common": 1216
+		"ips": 6294,
+		"common": 1215
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1961,
-		"common": 438
+		"ips": 1956,
+		"common": 436
 	},
 	{
 		"name": "stopforumspam",
