@@ -170,31 +170,31 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 7137,
+		"ips": 7119,
 		"common": 164
 	},
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 54,
-		"common": 10
+		"ips": 59,
+		"common": 8
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1059,
+		"ips": 1060,
 		"common": 92
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15097,
+		"ips": 15115,
 		"common": 242
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5070,
+		"ips": 5065,
 		"common": 193
 	},
 	{
@@ -302,7 +302,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 7116,
+		"ips": 7097,
 		"common": 164
 	},
 	{
@@ -380,7 +380,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13889,
+		"ips": 13891,
 		"common": 245
 	},
 	{
@@ -392,13 +392,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50032,
+		"ips": 50013,
 		"common": 220
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656317598,
+		"ips": 656301214,
 		"common": 27
 	},
 	{
@@ -416,13 +416,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588850,
+		"ips": 9588868,
 		"common": 254
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 36859,
+		"ips": 36853,
 		"common": 145
 	},
 	{
@@ -620,13 +620,13 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 29794,
-		"common": 6
+		"ips": 29911,
+		"common": 7
 	},
 	{
 		"name": "nt_ssh_7d",
 		"category": "attacks",
-		"ips": 7568,
+		"ips": 7611,
 		"common": 26
 	},
 	{
@@ -912,21 +912,27 @@
 		"common": 144
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1916,
+		"ips": 1921,
 		"common": 2
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 19868,
+		"ips": 19862,
 		"common": 8
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 7933,
+		"ips": 7920,
 		"common": 4
 	},
 	{
@@ -980,7 +986,7 @@
 	{
 		"name": "spamhaus_drop",
 		"category": "reputation",
-		"ips": 25167104,
+		"ips": 25150720,
 		"common": 20
 	},
 	{
