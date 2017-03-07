@@ -32,7 +32,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 460,
+		"ips": 458,
 		"common": 9
 	},
 	{
@@ -356,7 +356,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 308294,
+		"ips": 308292,
 		"common": 227
 	},
 	{
@@ -374,7 +374,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 38916,
+		"ips": 38917,
 		"common": 85
 	},
 	{
@@ -1374,16 +1374,28 @@
 		"common": 64
 	},
 	{
+		"name": "urandomusto_ftp",
+		"category": "attacks",
+		"ips": 336,
+		"common": 4
+	},
+	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 258,
-		"common": 10
+		"ips": 275,
+		"common": 7
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
 		"ips": 443,
-		"common": 16
+		"common": 15
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 449,
+		"common": 1
 	},
 	{
 		"name": "voipbl",

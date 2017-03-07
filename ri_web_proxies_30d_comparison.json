@@ -260,7 +260,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 308294,
+		"ips": 308292,
 		"common": 211
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 38916,
+		"ips": 38917,
 		"common": 121
 	},
 	{
@@ -1155,7 +1155,13 @@
 		"name": "urandomusto_mailer",
 		"category": "spam",
 		"ips": 443,
-		"common": 23
+		"common": 22
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 449,
+		"common": 1
 	},
 	{
 		"name": "xroxy",
