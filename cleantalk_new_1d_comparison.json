@@ -68,26 +68,26 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 49,
-		"common": 7
+		"ips": 55,
+		"common": 4
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
 		"ips": 1041,
-		"common": 58
+		"common": 57
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15135,
-		"common": 92
+		"ips": 15140,
+		"common": 93
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5063,
-		"common": 92
+		"ips": 5080,
+		"common": 93
 	},
 	{
 		"name": "bruteforceblocker",
@@ -152,7 +152,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 316074,
+		"ips": 316075,
 		"common": 26
 	},
 	{
@@ -224,7 +224,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11448,
+		"ips": 11453,
 		"common": 1565
 	},
 	{
@@ -248,7 +248,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 59747,
+		"ips": 59741,
 		"common": 110
 	},
 	{
@@ -260,8 +260,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588712,
-		"common": 105
+		"ips": 9588714,
+		"common": 106
 	},
 	{
 		"name": "firehol_proxies",
@@ -290,7 +290,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2064,
+		"ips": 2060,
 		"common": 3
 	},
 	{
@@ -688,6 +688,12 @@
 		"category": "anonymizers",
 		"ips": 1323,
 		"common": 17
+	},
+	{
+		"name": "urandomusto_ftp",
+		"category": "attacks",
+		"ips": 384,
+		"common": 1
 	},
 	{
 		"name": "voipbl",

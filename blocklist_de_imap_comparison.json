@@ -120,16 +120,28 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 55,
+		"common": 1
+	},
+	{
+		"name": "botscout_1d",
+		"category": "abuse",
+		"ips": 1041,
+		"common": 1
+	},
+	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15135,
-		"common": 7
+		"ips": 15140,
+		"common": 8
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5063,
-		"common": 3
+		"ips": 5080,
+		"common": 4
 	},
 	{
 		"name": "ciarmy",
@@ -230,7 +242,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 316074,
+		"ips": 316075,
 		"common": 15
 	},
 	{
@@ -320,8 +332,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11448,
-		"common": 1
+		"ips": 11453,
+		"common": 2
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -344,7 +356,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 59747,
+		"ips": 59741,
 		"common": 1790
 	},
 	{
@@ -356,7 +368,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588712,
+		"ips": 9588714,
 		"common": 33
 	},
 	{
@@ -386,8 +398,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2064,
-		"common": 74
+		"ips": 2060,
+		"common": 75
 	},
 	{
 		"name": "haley_ssh",
@@ -836,14 +848,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 383,
+		"ips": 384,
 		"common": 9
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 448,
-		"common": 46
+		"ips": 449,
+		"common": 44
 	},
 	{
 		"name": "voipbl",
