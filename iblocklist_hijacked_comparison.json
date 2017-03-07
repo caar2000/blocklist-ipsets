@@ -110,7 +110,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12081,
+		"ips": 12089,
 		"common": 41
 	},
 	{
@@ -470,7 +470,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656301218,
+		"ips": 656301219,
 		"common": 6033921
 	},
 	{
@@ -488,7 +488,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588084,
+		"ips": 9588092,
 		"common": 9145088
 	},
 	{
@@ -740,7 +740,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 35163,
+		"ips": 35338,
 		"common": 40
 	},
 	{
@@ -1118,13 +1118,19 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 147,
+		"ips": 143,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 451,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 294,
+		"ips": 292,
 		"common": 1
 	},
 	{
