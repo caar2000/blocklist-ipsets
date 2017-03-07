@@ -92,37 +92,37 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 50393,
-		"common": 1323
+		"ips": 50370,
+		"common": 1313
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 13461,
+		"ips": 13406,
 		"common": 382
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1322,
-		"common": 762
+		"ips": 1298,
+		"common": 752
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 4830,
+		"ips": 4779,
 		"common": 11
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20491,
+		"ips": 20605,
 		"common": 521
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 22631,
+		"ips": 22571,
 		"common": 28
 	},
 	{
@@ -350,7 +350,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 316118,
+		"ips": 316119,
 		"common": 1423
 	},
 	{
@@ -380,7 +380,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 243897,
+		"ips": 243902,
 		"common": 296
 	},
 	{
@@ -506,8 +506,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 60680,
-		"common": 1346
+		"ips": 60658,
+		"common": 1336
 	},
 	{
 		"name": "firehol_level3",
@@ -530,7 +530,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 22863,
+		"ips": 22865,
 		"common": 183
 	},
 	{
@@ -750,16 +750,28 @@
 		"common": 2
 	},
 	{
+		"name": "ipblacklistcloud_recent",
+		"category": "abuse",
+		"ips": 32,
+		"common": 1
+	},
+	{
+		"name": "ipblacklistcloud_recent_1d",
+		"category": "abuse",
+		"ips": 57,
+		"common": 1
+	},
+	{
 		"name": "ipblacklistcloud_recent_30d",
 		"category": "abuse",
-		"ips": 976,
-		"common": 7
+		"ips": 985,
+		"common": 8
 	},
 	{
 		"name": "ipblacklistcloud_recent_7d",
 		"category": "abuse",
-		"ips": 195,
-		"common": 1
+		"ips": 196,
+		"common": 2
 	},
 	{
 		"name": "ipblacklistcloud_top",
@@ -806,8 +818,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 34681,
-		"common": 131
+		"ips": 35006,
+		"common": 108
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1076,7 +1088,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5242,
+		"ips": 5243,
 		"common": 1
 	},
 	{
