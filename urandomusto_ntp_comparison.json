@@ -50,7 +50,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 454,
+		"ips": 456,
 		"common": 2
 	},
 	{
@@ -92,7 +92,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 24352,
+		"ips": 24365,
 		"common": 6
 	},
 	{
@@ -164,7 +164,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 63020,
+		"ips": 63282,
 		"common": 39
 	},
 	{
@@ -380,14 +380,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 334,
+		"ips": 330,
 		"common": 3
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 249,
-		"common": 1
+		"ips": 258,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_mailer",
@@ -402,10 +402,16 @@
 		"common": 3
 	},
 	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 449,
+		"common": 2
+	},
+	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 289,
-		"common": 7
+		"ips": 288,
+		"common": 6
 	},
 	{
 		"name": "voipbl",
