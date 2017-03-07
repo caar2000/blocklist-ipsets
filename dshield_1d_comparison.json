@@ -9,13 +9,13 @@
 		"name": "atlas_attacks_30d",
 		"category": "attacks",
 		"ips": 83,
-		"common": 3
+		"common": 1
 	},
 	{
 		"name": "atlas_attacks_7d",
 		"category": "attacks",
 		"ips": 29,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "bds_atif",
@@ -122,7 +122,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12288,
+		"ips": 12284,
 		"common": 43
 	},
 	{
@@ -321,13 +321,13 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 45568,
-		"common": 7680
+		"common": 7424
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 23040,
-		"common": 7680
+		"common": 7424
 	},
 	{
 		"name": "dshield_top_1000",
@@ -386,19 +386,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 59576,
-		"common": 7680
+		"ips": 59320,
+		"common": 7424
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 151793,
-		"common": 7680
+		"common": 7424
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588276,
+		"ips": 9588279,
 		"common": 426
 	},
 	{
@@ -440,7 +440,7 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 25073,
+		"ips": 25080,
 		"common": 141
 	},
 	{
@@ -537,13 +537,13 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 87
+		"common": 85
 	},
 	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 142
+		"common": 139
 	},
 	{
 		"name": "lashback_ubl",
@@ -627,7 +627,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 2550,
-		"common": 50
+		"common": 49
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -639,7 +639,7 @@
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2590,
-		"common": 42
+		"common": 41
 	},
 	{
 		"name": "proxylists_30d",
@@ -668,7 +668,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5242,
+		"ips": 5241,
 		"common": 2
 	},
 	{
@@ -819,7 +819,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27053,
-		"common": 207
+		"common": 202
 	},
 	{
 		"name": "urandomusto_dns",
