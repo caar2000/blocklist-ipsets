@@ -27,7 +27,7 @@
 		"name": "bbcan177_ms1",
 		"category": "malware",
 		"ips": 5268568,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "bbcan177_ms3",
@@ -38,7 +38,7 @@
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 224,
+		"ips": 216,
 		"common": 1
 	},
 	{
@@ -72,6 +72,12 @@
 		"common": 1
 	},
 	{
+		"name": "dronebl_auto_botnets",
+		"category": "reputation",
+		"ips": 308304,
+		"common": 1
+	},
+	{
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 25156731,
@@ -92,7 +98,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 218868,
+		"ips": 218865,
 		"common": 1
 	},
 	{
@@ -104,20 +110,20 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656300213,
+		"ips": 656300211,
 		"common": 1
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588147,
+		"ips": 9588085,
 		"common": 3
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34490831,
-		"common": 176
+		"common": 180
 	},
 	{
 		"name": "gofferje_sip",
@@ -129,7 +135,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 24213,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "iblocklist_badpeers",
@@ -153,7 +159,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
-		"common": 14
+		"common": 17
 	},
 	{
 		"name": "iblocklist_hijacked",
@@ -171,19 +177,19 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691433,
-		"common": 30
+		"common": 32
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 27
+		"common": 28
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 77
+		"common": 79
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -201,7 +207,7 @@
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
 		"ips": 4346058,
-		"common": 28
+		"common": 27
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
@@ -219,13 +225,13 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 171
+		"common": 175
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34247816,
-		"common": 170
+		"common": 173
 	},
 	{
 		"name": "sorbs_dul",
