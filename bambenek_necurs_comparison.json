@@ -3,24 +3,18 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 323,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 656301225,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34490758,
-		"common": 1
-	},
-	{
-		"name": "fullbogons",
-		"category": "unrouteable",
-		"ips": 630393672,
 		"common": 1
 	},
 	{
@@ -33,12 +27,18 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_isp_verizon",
+		"category": "organizations",
+		"ips": 18087936,
 		"common": 1
 	},
 	{
@@ -51,6 +51,12 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
+		"common": 2
+	},
+	{
+		"name": "sorbs_noserver",
+		"category": "spam",
+		"ips": 22951270,
 		"common": 1
 	}
 ]
