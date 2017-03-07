@@ -212,13 +212,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 49894,
+		"ips": 49812,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 61257,
+		"ips": 61254,
 		"common": 257
 	},
 	{
@@ -260,7 +260,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2054,
+		"ips": 2052,
 		"common": 1
 	},
 	{
@@ -502,6 +502,18 @@
 		"category": "reputation",
 		"ips": 27053,
 		"common": 4
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 448,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 448,
+		"common": 1
 	},
 	{
 		"name": "urlvir",

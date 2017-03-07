@@ -134,8 +134,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 406,
-		"common": 171
+		"ips": 407,
+		"common": 173
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -314,25 +314,31 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 7079,
+		"ips": 7063,
 		"common": 16
+	},
+	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 38,
+		"common": 1
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1130,
+		"ips": 1104,
 		"common": 11
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15183,
+		"ips": 15181,
 		"common": 34
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5153,
+		"ips": 5164,
 		"common": 18
 	},
 	{
@@ -476,7 +482,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 7060,
+		"ips": 7081,
 		"common": 16
 	},
 	{
@@ -626,7 +632,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12210,
+		"ips": 12199,
 		"common": 50
 	},
 	{
@@ -638,7 +644,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 49894,
+		"ips": 49812,
 		"common": 35
 	},
 	{
@@ -650,8 +656,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 61257,
-		"common": 1767
+		"ips": 61254,
+		"common": 1768
 	},
 	{
 		"name": "firehol_level3",
@@ -704,7 +710,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2054,
+		"ips": 2052,
 		"common": 185
 	},
 	{
@@ -1280,7 +1286,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5244,
+		"ips": 5243,
 		"common": 37
 	},
 	{
@@ -1544,20 +1550,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 379,
+		"ips": 372,
 		"common": 12
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 281,
+		"ips": 279,
 		"common": 59
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 449,
-		"common": 19
+		"ips": 448,
+		"common": 25
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -1568,7 +1574,7 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 148,
+		"ips": 144,
 		"common": 24
 	},
 	{
@@ -1581,25 +1587,25 @@
 		"name": "urandomusto_ssh",
 		"category": "attacks",
 		"ips": 448,
-		"common": 44
+		"common": 43
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 451,
-		"common": 40
+		"ips": 448,
+		"common": 43
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 298,
-		"common": 64
+		"ips": 295,
+		"common": 62
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 26,
-		"common": 4
+		"ips": 25,
+		"common": 3
 	},
 	{
 		"name": "virbl",

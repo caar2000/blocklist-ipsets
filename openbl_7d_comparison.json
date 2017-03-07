@@ -26,8 +26,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 406,
-		"common": 65
+		"ips": 407,
+		"common": 66
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -302,7 +302,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12210,
+		"ips": 12199,
 		"common": 2
 	},
 	{
@@ -320,7 +320,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 61257,
+		"ips": 61254,
 		"common": 759
 	},
 	{
@@ -350,8 +350,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2054,
-		"common": 15
+		"ips": 2052,
+		"common": 14
 	},
 	{
 		"name": "haley_ssh",
@@ -716,26 +716,32 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 379,
+		"ips": 372,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 281,
-		"common": 2
+		"ips": 279,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 449,
-		"common": 3
+		"ips": 448,
+		"common": 6
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
 		"ips": 448,
-		"common": 4
+		"common": 10
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 448,
+		"common": 1
 	},
 	{
 		"name": "virbl",

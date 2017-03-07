@@ -33,7 +33,7 @@
 		"name": "bbcan177_ms1",
 		"category": "malware",
 		"ips": 5268568,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "bbcan177_ms3",
@@ -50,7 +50,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 406,
+		"ips": 407,
 		"common": 2
 	},
 	{
@@ -117,13 +117,13 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 45568,
-		"common": 39
+		"common": 40
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 23040,
-		"common": 36
+		"common": 37
 	},
 	{
 		"name": "dshield_top_1000",
@@ -164,7 +164,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 61257,
+		"ips": 61254,
 		"common": 36
 	},
 	{
@@ -183,7 +183,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34490831,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "gofferje_sip",
@@ -194,7 +194,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2054,
+		"ips": 2052,
 		"common": 1
 	},
 	{
@@ -255,7 +255,7 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 12
+		"common": 13
 	},
 	{
 		"name": "jigsaw_malware",
@@ -303,7 +303,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34247816,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "sorbs_web",
@@ -315,7 +315,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "spamhaus_drop",
@@ -386,19 +386,25 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 379,
+		"ips": 372,
 		"common": 4
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 281,
+		"ips": 279,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 448,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 148,
+		"ips": 144,
 		"common": 1
 	},
 	{
@@ -410,13 +416,13 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 298,
+		"ips": 295,
 		"common": 8
 	},
 	{
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 24517,
-		"common": 4
+		"common": 5
 	}
 ]
