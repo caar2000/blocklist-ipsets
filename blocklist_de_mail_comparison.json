@@ -410,8 +410,8 @@
 	{
 		"name": "et_block",
 		"category": "attacks",
-		"ips": 25160316,
-		"common": 548
+		"ips": 25156731,
+		"common": 551
 	},
 	{
 		"name": "et_compromised",
@@ -420,16 +420,22 @@
 		"common": 2
 	},
 	{
+		"name": "et_dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 3
+	},
+	{
 		"name": "et_spamhaus",
 		"category": "attacks",
-		"ips": 25154304,
+		"ips": 25150720,
 		"common": 547
 	},
 	{
 		"name": "et_tor",
 		"category": "anonymizers",
-		"ips": 7000,
-		"common": 1
+		"ips": 7130,
+		"common": 2
 	},
 	{
 		"name": "feodo",
@@ -452,7 +458,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 49893,
+		"ips": 49895,
 		"common": 1292
 	},
 	{
@@ -482,7 +488,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 36668,
+		"ips": 36670,
 		"common": 1290
 	},
 	{
@@ -782,8 +788,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36615,
-		"common": 3129
+		"ips": 36741,
+		"common": 2983
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1131,13 +1137,13 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 32
+		"common": 36
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1856,
-		"common": 613
+		"ips": 1859,
+		"common": 614
 	},
 	{
 		"name": "socks_proxy_30d",
@@ -1227,18 +1233,18 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 418,
+		"ips": 421,
 		"common": 16
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 6375,
+		"ips": 6377,
 		"common": 42
 	},
 	{
