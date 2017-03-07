@@ -62,7 +62,7 @@
 [ -f 'bitcoin_blockchain_info.ipset' ] && /usr/bin/touch --date=@1488869048 'bitcoin_blockchain_info.ipset'
 [ -f 'bitcoin_blockchain_info_1d.ipset' ] && /usr/bin/touch --date=@1488868353 'bitcoin_blockchain_info_1d.ipset'
 [ -f 'bitcoin_blockchain_info_30d.ipset' ] && /usr/bin/touch --date=@1488867617 'bitcoin_blockchain_info_30d.ipset'
-[ -f 'bitcoin_blockchain_info_7d.ipset' ] && /usr/bin/touch --date=@1488867617 'bitcoin_blockchain_info_7d.ipset'
+[ -f 'bitcoin_blockchain_info_7d.ipset' ] && /usr/bin/touch --date=@1488869784 'bitcoin_blockchain_info_7d.ipset'
 [ -f 'bitcoin_nodes.ipset' ] && /usr/bin/touch --date=@1488869308 'bitcoin_nodes.ipset'
 [ -f 'bitcoin_nodes_1d.ipset' ] && /usr/bin/touch --date=@1488869308 'bitcoin_nodes_1d.ipset'
 [ -f 'bitcoin_nodes_30d.ipset' ] && /usr/bin/touch --date=@1488869308 'bitcoin_nodes_30d.ipset'
