@@ -236,8 +236,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12503,
-		"common": 257
+		"ips": 12523,
+		"common": 261
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -554,7 +554,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 38912,
+		"ips": 38913,
 		"common": 3575
 	},
 	{
@@ -812,8 +812,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588515,
-		"common": 28991
+		"ips": 9588536,
+		"common": 28995
 	},
 	{
 		"name": "firehol_proxies",
@@ -1238,8 +1238,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 35521,
-		"common": 1597
+		"ips": 35444,
+		"common": 1561
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1635,12 +1635,12 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1749,
+		"ips": 1758,
 		"common": 32
 	},
 	{
@@ -1652,7 +1652,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 7809,
+		"ips": 7810,
 		"common": 612
 	},
 	{
@@ -1732,6 +1732,12 @@
 		"category": "malware",
 		"ips": 2626,
 		"common": 21
+	},
+	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 100,
+		"common": 1
 	},
 	{
 		"name": "sslproxies_1d",
