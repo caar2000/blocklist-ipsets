@@ -9,12 +9,18 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 656300211,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34490831,
+		"common": 1
+	},
+	{
+		"name": "fullbogons",
+		"category": "unrouteable",
+		"ips": 630393672,
 		"common": 1
 	},
 	{
@@ -27,12 +33,18 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346613099,
 		"common": 1
 	},
 	{
