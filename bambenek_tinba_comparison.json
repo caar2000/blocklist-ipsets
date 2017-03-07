@@ -9,7 +9,7 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 331,
-		"common": 10
+		"common": 8
 	},
 	{
 		"name": "bambenek_ramnit",
@@ -57,7 +57,7 @@
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 30542,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "cleanmx_phishing",
@@ -75,13 +75,13 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 656301230,
-		"common": 10
+		"common": 8
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34490758,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "hphosts_ats",
@@ -93,7 +93,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 24200,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "hphosts_exp",
@@ -129,13 +129,13 @@
 		"name": "hphosts_pha",
 		"category": "reputation",
 		"ips": 1776,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 23179,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "hphosts_wrz",
@@ -162,16 +162,16 @@
 		"common": 1
 	},
 	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762691433,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 4
-	},
-	{
-		"name": "iblocklist_level3",
-		"category": "reputation",
-		"ips": 139023007,
-		"common": 1
+		"common": 3
 	},
 	{
 		"name": "iblocklist_rangetest",
@@ -183,7 +183,7 @@
 		"name": "iblocklist_yoyo_adservers",
 		"category": "organizations",
 		"ips": 12075,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -195,7 +195,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -216,6 +216,12 @@
 		"common": 1
 	},
 	{
+		"name": "taichung",
+		"category": "attacks",
+		"ips": 12347,
+		"common": 1
+	},
+	{
 		"name": "threatcrowd",
 		"category": "malware",
 		"ips": 6383,
@@ -225,6 +231,6 @@
 		"name": "yoyo_adservers",
 		"category": "organizations",
 		"ips": 12747,
-		"common": 2
+		"common": 3
 	}
 ]
