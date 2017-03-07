@@ -80,7 +80,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12085,
+		"ips": 12068,
 		"common": 1
 	},
 	{
@@ -146,7 +146,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 243938,
+		"ips": 243939,
 		"common": 6
 	},
 	{
@@ -206,8 +206,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 49660,
-		"common": 3
+		"ips": 49676,
+		"common": 4
 	},
 	{
 		"name": "firehol_level1",
@@ -230,14 +230,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588088,
+		"ips": 9588071,
 		"common": 4
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 36505,
-		"common": 3
+		"ips": 36521,
+		"common": 4
 	},
 	{
 		"name": "firehol_webserver",
@@ -366,27 +366,33 @@
 		"common": 95
 	},
 	{
+		"name": "ri_connect_proxies",
+		"category": "anonymizers",
+		"ips": 152,
+		"common": 1
+	},
+	{
 		"name": "ri_connect_proxies_1d",
 		"category": "anonymizers",
-		"ips": 334,
-		"common": 1
+		"ips": 366,
+		"common": 2
 	},
 	{
 		"name": "ri_connect_proxies_30d",
 		"category": "anonymizers",
-		"ips": 2881,
-		"common": 1
+		"ips": 2890,
+		"common": 2
 	},
 	{
 		"name": "ri_connect_proxies_7d",
 		"category": "anonymizers",
-		"ips": 952,
-		"common": 1
+		"ips": 985,
+		"common": 2
 	},
 	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 4440,
+		"ips": 4427,
 		"common": 1
 	},
 	{
