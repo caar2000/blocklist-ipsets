@@ -50,19 +50,19 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 11968,
+		"ips": 11889,
 		"common": 20
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1005,
+		"ips": 997,
 		"common": 14
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 23087,
+		"ips": 23162,
 		"common": 22
 	},
 	{
@@ -470,8 +470,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 35516,
-		"common": 1
+		"ips": 35441,
+		"common": 3
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -798,9 +798,15 @@
 		"common": 4
 	},
 	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 100,
+		"common": 1
+	},
+	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 417,
+		"ips": 416,
 		"common": 2
 	},
 	{
@@ -812,7 +818,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1648,
+		"ips": 1646,
 		"common": 2
 	},
 	{
