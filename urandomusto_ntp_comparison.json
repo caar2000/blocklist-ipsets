@@ -33,7 +33,7 @@
 		"name": "bbcan177_ms1",
 		"category": "malware",
 		"ips": 5268568,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "bbcan177_ms3",
@@ -81,7 +81,7 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 15914,
-		"common": 51
+		"common": 50
 	},
 	{
 		"name": "dataplane_sipquery",
@@ -105,43 +105,43 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 41
+		"common": 40
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 9728,
-		"common": 43
+		"common": 42
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 45824,
-		"common": 48
+		"common": 47
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 23296,
-		"common": 44
+		"common": 43
 	},
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
 		"ips": 890,
-		"common": 27
+		"common": 26
 	},
 	{
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 25156731,
-		"common": 42
+		"common": 41
 	},
 	{
 		"name": "et_dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 41
+		"common": 40
 	},
 	{
 		"name": "et_spamhaus",
@@ -152,26 +152,26 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 218743,
+		"ips": 218746,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 656277938,
-		"common": 42
+		"common": 41
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 63324,
-		"common": 44
+		"common": 43
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 153488,
-		"common": 79
+		"common": 77
 	},
 	{
 		"name": "firehol_level4",
@@ -219,7 +219,7 @@
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 15292,
-		"common": 49
+		"common": 48
 	},
 	{
 		"name": "iblocklist_edu",
@@ -231,7 +231,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691433,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_level2",
@@ -255,13 +255,13 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 13
+		"common": 11
 	},
 	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 29
+		"common": 28
 	},
 	{
 		"name": "nullsecure",
@@ -375,30 +375,24 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27053,
-		"common": 79
+		"common": 77
 	},
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
 		"ips": 84,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 333,
+		"ips": 331,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 301,
-		"common": 1
-	},
-	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
-		"ips": 439,
+		"ips": 319,
 		"common": 1
 	},
 	{
@@ -410,7 +404,7 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 273,
+		"ips": 270,
 		"common": 6
 	},
 	{
