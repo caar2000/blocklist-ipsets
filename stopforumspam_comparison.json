@@ -134,13 +134,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 50370,
-		"common": 1904
+		"ips": 50545,
+		"common": 1905
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 13406,
+		"ips": 13408,
 		"common": 128
 	},
 	{
@@ -152,26 +152,26 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 4779,
+		"ips": 4781,
 		"common": 49
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 573,
+		"ips": 576,
 		"common": 59
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1833,
-		"common": 17
+		"ips": 1838,
+		"common": 18
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20605,
-		"common": 739
+		"ips": 20696,
+		"common": 740
 	},
 	{
 		"name": "blocklist_de_sip",
@@ -182,7 +182,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 22571,
+		"ips": 22650,
 		"common": 75
 	},
 	{
@@ -327,25 +327,25 @@
 		"name": "cleantalk",
 		"category": "abuse",
 		"ips": 2663,
-		"common": 970
+		"common": 968
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6432,
-		"common": 1995
+		"ips": 6425,
+		"common": 1993
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 61363,
-		"common": 19939
+		"ips": 61364,
+		"common": 19940
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 16887,
-		"common": 4857
+		"ips": 16888,
+		"common": 4859
 	},
 	{
 		"name": "cleantalk_new",
@@ -381,25 +381,25 @@
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 862
+		"common": 860
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5533,
-		"common": 2020
+		"ips": 5518,
+		"common": 2012
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 45780,
+		"ips": 45777,
 		"common": 14637
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 13902,
-		"common": 4005
+		"ips": 13907,
+		"common": 4007
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -428,13 +428,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 24110,
+		"ips": 24149,
 		"common": 62
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 21996,
+		"ips": 22031,
 		"common": 48
 	},
 	{
@@ -668,19 +668,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11890,
-		"common": 6148
+		"ips": 11876,
+		"common": 6141
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 219489,
+		"ips": 219490,
 		"common": 159158
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 49764,
+		"ips": 49767,
 		"common": 11136
 	},
 	{
@@ -692,8 +692,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 60658,
-		"common": 1965
+		"ips": 60832,
+		"common": 1966
 	},
 	{
 		"name": "firehol_level3",
@@ -710,7 +710,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 36682,
+		"ips": 36685,
 		"common": 10567
 	},
 	{
@@ -1515,24 +1515,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 29
+		"common": 30
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1870,
+		"ips": 1871,
 		"common": 610
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 19671,
+		"ips": 19672,
 		"common": 3257
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 7883,
+		"ips": 7881,
 		"common": 1415
 	},
 	{
@@ -1623,25 +1623,25 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 44
+		"common": 55
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 419,
-		"common": 208
+		"ips": 422,
+		"common": 209
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 6373,
+		"ips": 6375,
 		"common": 3282
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1655,
-		"common": 1000
+		"ips": 1654,
+		"common": 997
 	},
 	{
 		"name": "stopforumspam_180d",
