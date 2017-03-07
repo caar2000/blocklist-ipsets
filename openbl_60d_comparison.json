@@ -68,25 +68,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5016,
+		"ips": 5014,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6371,
+		"ips": 6356,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 20598,
+		"ips": 20597,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10185,
+		"ips": 10171,
 		"common": 1
 	},
 	{
@@ -152,8 +152,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13188,
-		"common": 163
+		"ips": 13205,
+		"common": 162
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -434,7 +434,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 14307,
+		"ips": 14364,
 		"common": 10
 	},
 	{
@@ -452,7 +452,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656310708,
+		"ips": 656310713,
 		"common": 87
 	},
 	{
@@ -470,8 +470,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589195,
-		"common": 920
+		"ips": 9589211,
+		"common": 919
 	},
 	{
 		"name": "firehol_proxies",
@@ -740,14 +740,14 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 31221,
+		"ips": 31139,
 		"common": 13
 	},
 	{
 		"name": "nt_ssh_7d",
 		"category": "attacks",
-		"ips": 7611,
-		"common": 524
+		"ips": 425,
+		"common": 67
 	},
 	{
 		"name": "nullsecure",
@@ -1058,7 +1058,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 7506,
+		"ips": 7574,
 		"common": 6
 	},
 	{
@@ -1148,32 +1148,38 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 331,
+		"ips": 327,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 319,
+		"ips": 326,
 		"common": 7
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 439,
+		"ips": 445,
 		"common": 16
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 147,
+		"ips": 142,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
 		"ips": 448,
-		"common": 91
+		"common": 74
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 446,
+		"common": 1
 	},
 	{
 		"name": "virbl",

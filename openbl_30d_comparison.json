@@ -110,8 +110,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13188,
-		"common": 152
+		"ips": 13205,
+		"common": 151
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -374,7 +374,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 14307,
+		"ips": 14364,
 		"common": 7
 	},
 	{
@@ -392,7 +392,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656310708,
+		"ips": 656310713,
 		"common": 70
 	},
 	{
@@ -410,8 +410,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589195,
-		"common": 567
+		"ips": 9589211,
+		"common": 566
 	},
 	{
 		"name": "firehol_proxies",
@@ -650,14 +650,14 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 31221,
+		"ips": 31139,
 		"common": 8
 	},
 	{
 		"name": "nt_ssh_7d",
 		"category": "attacks",
-		"ips": 7611,
-		"common": 296
+		"ips": 425,
+		"common": 65
 	},
 	{
 		"name": "nullsecure",
@@ -908,7 +908,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 7506,
+		"ips": 7574,
 		"common": 5
 	},
 	{
@@ -998,26 +998,32 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 319,
+		"ips": 326,
 		"common": 6
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 439,
-		"common": 14
+		"ips": 445,
+		"common": 13
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 147,
+		"ips": 142,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
 		"ips": 448,
-		"common": 79
+		"common": 55
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 446,
+		"common": 1
 	},
 	{
 		"name": "virbl",
