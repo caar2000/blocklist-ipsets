@@ -104,8 +104,14 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 316115,
+		"ips": 316116,
 		"common": 3
+	},
+	{
+		"name": "firehol_abusers_1d",
+		"category": "abuse",
+		"ips": 11865,
+		"common": 1
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -134,7 +140,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588393,
+		"ips": 9588293,
 		"common": 2
 	},
 	{
@@ -242,8 +248,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 34333,
-		"common": 14
+		"ips": 34436,
+		"common": 15
 	},
 	{
 		"name": "packetmail",
@@ -352,6 +358,12 @@
 		"category": "abuse",
 		"ips": 282938,
 		"common": 2
+	},
+	{
+		"name": "stopforumspam_1d",
+		"category": "abuse",
+		"ips": 4737,
+		"common": 1
 	},
 	{
 		"name": "stopforumspam_30d",
