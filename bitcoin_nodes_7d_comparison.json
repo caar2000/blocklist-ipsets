@@ -86,13 +86,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 51322,
+		"ips": 51424,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 22807,
+		"ips": 22888,
 		"common": 1
 	},
 	{
@@ -290,8 +290,20 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 243938,
+		"ips": 243951,
 		"common": 4
+	},
+	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 10240,
+		"common": 1
 	},
 	{
 		"name": "dshield_30d",
@@ -345,24 +357,24 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 656301225,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 62544,
-		"common": 1
+		"ips": 62895,
+		"common": 2
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 152280,
+		"ips": 152909,
 		"common": 36
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588268,
+		"ips": 9588263,
 		"common": 17
 	},
 	{
@@ -428,7 +440,7 @@
 	{
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
-		"ips": 15435,
+		"ips": 15292,
 		"common": 1
 	},
 	{
@@ -662,7 +674,7 @@
 	{
 		"name": "openbl_90d",
 		"category": "attacks",
-		"ips": 15994,
+		"ips": 15957,
 		"common": 1
 	},
 	{
@@ -848,7 +860,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 23404,
+		"ips": 24032,
 		"common": 7
 	},
 	{
@@ -890,7 +902,7 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 246,
+		"ips": 249,
 		"common": 1
 	},
 	{
