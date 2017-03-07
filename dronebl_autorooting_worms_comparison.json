@@ -80,7 +80,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13001,
+		"ips": 12976,
 		"common": 4
 	},
 	{
@@ -92,13 +92,13 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15115,
+		"ips": 15123,
 		"common": 1
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5065,
+		"ips": 5051,
 		"common": 1
 	},
 	{
@@ -224,14 +224,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656301213,
+		"ips": 656301214,
 		"common": 75
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 59472,
-		"common": 29
+		"ips": 59763,
+		"common": 30
 	},
 	{
 		"name": "firehol_level3",
@@ -242,7 +242,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588766,
+		"ips": 9588751,
 		"common": 474
 	},
 	{
@@ -272,8 +272,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1718,
-		"common": 1
+		"ips": 2069,
+		"common": 2
 	},
 	{
 		"name": "haley_ssh",
@@ -488,7 +488,7 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 2504,
+		"ips": 2505,
 		"common": 1
 	},
 	{
@@ -598,6 +598,12 @@
 		"category": "spam",
 		"ips": 448,
 		"common": 7
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 446,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
