@@ -3,19 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 46675,
-		"common": 27
-	},
-	{
-		"name": "atlas_scans_30d",
-		"category": "attacks",
-		"ips": 99,
-		"common": 1
-	},
-	{
-		"name": "atlas_scans_7d",
-		"category": "attacks",
-		"ips": 30,
-		"common": 1
+		"common": 26
 	},
 	{
 		"name": "bds_atif",
@@ -33,13 +21,13 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 7481,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 2554,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "bi_ssh_2_30d",
@@ -51,18 +39,18 @@
 		"name": "bi_voip_2_30d",
 		"category": "attacks",
 		"ips": 18,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 52071,
-		"common": 157
+		"ips": 52140,
+		"common": 155
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 173,
+		"ips": 172,
 		"common": 2
 	},
 	{
@@ -117,7 +105,7 @@
 		"name": "dataplane_sipquery",
 		"category": "attacks",
 		"ips": 473,
-		"common": 16
+		"common": 14
 	},
 	{
 		"name": "dataplane_sipregistration",
@@ -129,13 +117,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 24468,
-		"common": 18
+		"common": 17
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 22336,
-		"common": 18
+		"common": 17
 	},
 	{
 		"name": "dragon_http",
@@ -225,7 +213,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 63076,
-		"common": 157
+		"common": 154
 	},
 	{
 		"name": "firehol_level3",
@@ -249,13 +237,13 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34490758,
-		"common": 43
+		"common": 42
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095580,
-		"common": 33
+		"common": 32
 	},
 	{
 		"name": "haley_ssh",
@@ -417,7 +405,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34247816,
-		"common": 42
+		"common": 41
 	},
 	{
 		"name": "sorbs_dul",
@@ -471,7 +459,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27053,
-		"common": 25
+		"common": 24
 	},
 	{
 		"name": "urandomusto_mailer",
@@ -489,6 +477,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 24918,
-		"common": 75
+		"common": 73
 	}
 ]
