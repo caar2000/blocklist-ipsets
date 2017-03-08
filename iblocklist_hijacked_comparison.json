@@ -44,7 +44,7 @@
 	{
 		"name": "bambenek_necurs",
 		"category": "malware",
-		"ips": 9,
+		"ips": 11,
 		"common": 1
 	},
 	{
@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13567,
+		"ips": 13565,
 		"common": 40
 	},
 	{
@@ -168,22 +168,28 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 55,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1010,
-		"common": 9
+		"ips": 1023,
+		"common": 10
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15281,
-		"common": 165
+		"ips": 15291,
+		"common": 166
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5179,
-		"common": 59
+		"ips": 5183,
+		"common": 60
 	},
 	{
 		"name": "botvrij_dst",
@@ -488,8 +494,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 13024,
-		"common": 109
+		"ips": 13029,
+		"common": 110
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -524,7 +530,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589706,
+		"ips": 9589712,
 		"common": 9145088
 	},
 	{
@@ -776,8 +782,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36801,
-		"common": 48
+		"ips": 36936,
+		"common": 45
 	},
 	{
 		"name": "nt_malware_http",
