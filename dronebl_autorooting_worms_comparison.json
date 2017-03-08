@@ -50,7 +50,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 52803,
+		"ips": 52716,
 		"common": 27
 	},
 	{
@@ -74,7 +74,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 23430,
+		"ips": 23439,
 		"common": 11
 	},
 	{
@@ -236,7 +236,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 64717,
+		"ips": 64635,
 		"common": 33
 	},
 	{
@@ -422,8 +422,14 @@
 	{
 		"name": "lashback_ubl",
 		"category": "spam",
-		"ips": 585637,
+		"ips": 596926,
 		"common": 7
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 35106,
+		"common": 1
 	},
 	{
 		"name": "nullsecure",
