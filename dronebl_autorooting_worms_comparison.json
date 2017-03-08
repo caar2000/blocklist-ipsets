@@ -50,31 +50,31 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 52731,
+		"ips": 52953,
 		"common": 27
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10093,
+		"ips": 10107,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2046,
+		"ips": 2059,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 26208,
+		"ips": 26325,
 		"common": 15
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 23495,
+		"ips": 23586,
 		"common": 11
 	},
 	{
@@ -116,7 +116,7 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 15378,
+		"ips": 15409,
 		"common": 2
 	},
 	{
@@ -170,7 +170,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 244006,
+		"ips": 244014,
 		"common": 9
 	},
 	{
@@ -224,7 +224,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 219170,
+		"ips": 219175,
 		"common": 2
 	},
 	{
@@ -236,13 +236,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 64679,
+		"ips": 64904,
 		"common": 33
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 153275,
+		"ips": 153306,
 		"common": 36
 	},
 	{
@@ -446,7 +446,7 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 273,
+		"ips": 272,
 		"common": 1
 	},
 	{
@@ -476,7 +476,7 @@
 	{
 		"name": "openbl_90d",
 		"category": "attacks",
-		"ips": 15901,
+		"ips": 15855,
 		"common": 15
 	},
 	{
@@ -590,7 +590,13 @@
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 447,
+		"ips": 451,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 450,
 		"common": 1
 	},
 	{
