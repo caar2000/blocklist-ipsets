@@ -26,14 +26,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589647,
+		"ips": 9589643,
 		"common": 4
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
 		"ips": 22906,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "firehol_webserver",
@@ -63,7 +63,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "iblocklist_level3",
@@ -86,7 +86,13 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5238,
+		"ips": 5236,
+		"common": 1
+	},
+	{
+		"name": "ransomware_online",
+		"category": "malware",
+		"ips": 525,
 		"common": 1
 	},
 	{
