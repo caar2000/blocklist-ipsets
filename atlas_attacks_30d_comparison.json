@@ -86,19 +86,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 52596,
+		"ips": 52452,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1971,
+		"ips": 1975,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 25064,
+		"ips": 25077,
 		"common": 1
 	},
 	{
@@ -188,7 +188,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 64704,
+		"ips": 64561,
 		"common": 2
 	},
 	{
@@ -434,13 +434,13 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 84,
+		"ips": 85,
 		"common": 4
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 326,
+		"ips": 319,
 		"common": 1
 	},
 	{
@@ -452,7 +452,7 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 142,
+		"ips": 140,
 		"common": 1
 	},
 	{
@@ -462,9 +462,15 @@
 		"common": 2
 	},
 	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 449,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 273,
+		"ips": 276,
 		"common": 2
 	},
 	{
