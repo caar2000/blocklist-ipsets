@@ -14,8 +14,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 420,
-		"common": 1
+		"ips": 423,
+		"common": 2
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -44,8 +44,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 52441,
-		"common": 154
+		"ips": 52629,
+		"common": 157
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -56,7 +56,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13452,
+		"ips": 13543,
 		"common": 5
 	},
 	{
@@ -74,13 +74,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 60507,
+		"ips": 60513,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 26346,
+		"ips": 26339,
 		"common": 1
 	},
 	{
@@ -153,7 +153,7 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 46080,
-		"common": 17
+		"common": 18
 	},
 	{
 		"name": "dshield_7d",
@@ -200,7 +200,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 219107,
+		"ips": 219106,
 		"common": 1
 	},
 	{
@@ -212,19 +212,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 64586,
-		"common": 154
+		"ips": 64774,
+		"common": 157
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 153948,
-		"common": 35
+		"common": 36
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589469,
+		"ips": 9589560,
 		"common": 24
 	},
 	{
@@ -243,7 +243,7 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095580,
-		"common": 33
+		"common": 34
 	},
 	{
 		"name": "greensnow",
@@ -261,7 +261,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -273,7 +273,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "iblocklist_isp_aol",
@@ -471,6 +471,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 24918,
-		"common": 74
+		"common": 76
 	}
 ]
