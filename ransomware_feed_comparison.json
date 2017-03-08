@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 46477,
-		"common": 37
+		"common": 36
 	},
 	{
 		"name": "atlas_phishing",
@@ -39,7 +39,13 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 355,
-		"common": 43
+		"common": 45
+	},
+	{
+		"name": "bambenek_matsnu",
+		"category": "malware",
+		"ips": 4,
+		"common": 1
 	},
 	{
 		"name": "bambenek_pykspa",
@@ -243,7 +249,7 @@
 		"name": "cleanmx_viruses",
 		"category": "spam",
 		"ips": 12190,
-		"common": 239
+		"common": 240
 	},
 	{
 		"name": "cleantalk",
@@ -315,7 +321,7 @@
 		"name": "cta_cryptowall",
 		"category": "malware",
 		"ips": 1360,
-		"common": 86
+		"common": 87
 	},
 	{
 		"name": "cybercrime",
@@ -447,7 +453,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 656310727,
-		"common": 304
+		"common": 306
 	},
 	{
 		"name": "firehol_level2",
@@ -464,20 +470,20 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589433,
-		"common": 381
+		"ips": 9589431,
+		"common": 382
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 22914,
-		"common": 568
+		"ips": 22915,
+		"common": 569
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34490758,
-		"common": 4336
+		"common": 4340
 	},
 	{
 		"name": "fullbogons",
@@ -519,13 +525,13 @@
 		"name": "hphosts_ats",
 		"category": "organizations",
 		"ips": 15676,
-		"common": 103
+		"common": 104
 	},
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 24200,
-		"common": 4050
+		"common": 4054
 	},
 	{
 		"name": "hphosts_exp",
@@ -537,7 +543,7 @@
 		"name": "hphosts_fsa",
 		"category": "reputation",
 		"ips": 35153,
-		"common": 505
+		"common": 504
 	},
 	{
 		"name": "hphosts_grm",
@@ -561,25 +567,25 @@
 		"name": "hphosts_mmt",
 		"category": "reputation",
 		"ips": 1168,
-		"common": 57
+		"common": 58
 	},
 	{
 		"name": "hphosts_pha",
 		"category": "reputation",
 		"ips": 1776,
-		"common": 84
+		"common": 86
 	},
 	{
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 23179,
-		"common": 647
+		"common": 648
 	},
 	{
 		"name": "hphosts_wrz",
 		"category": "reputation",
 		"ips": 821,
-		"common": 41
+		"common": 40
 	},
 	{
 		"name": "iblocklist_abuse_zeus",
@@ -597,7 +603,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 397
+		"common": 398
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -621,7 +627,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
-		"common": 98
+		"common": 100
 	},
 	{
 		"name": "iblocklist_exclusions",
@@ -681,7 +687,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691433,
-		"common": 212
+		"common": 211
 	},
 	{
 		"name": "iblocklist_level2",
@@ -693,7 +699,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 352
+		"common": 354
 	},
 	{
 		"name": "iblocklist_org_blizzard",
@@ -741,7 +747,7 @@
 		"name": "iblocklist_yoyo_adservers",
 		"category": "organizations",
 		"ips": 12075,
-		"common": 21
+		"common": 23
 	},
 	{
 		"name": "iw_spamlist",
@@ -753,13 +759,13 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 86
+		"common": 87
 	},
 	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 218
+		"common": 217
 	},
 	{
 		"name": "lashback_ubl",
@@ -813,7 +819,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34247816,
-		"common": 756
+		"common": 759
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -830,8 +836,8 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 536,
-		"common": 536
+		"ips": 537,
+		"common": 537
 	},
 	{
 		"name": "ransomware_rw",
@@ -981,7 +987,7 @@
 		"name": "threatcrowd",
 		"category": "malware",
 		"ips": 6383,
-		"common": 151
+		"common": 152
 	},
 	{
 		"name": "turris_greylist",
@@ -1023,7 +1029,7 @@
 		"name": "yoyo_adservers",
 		"category": "organizations",
 		"ips": 12747,
-		"common": 21
+		"common": 23
 	},
 	{
 		"name": "zeus",
