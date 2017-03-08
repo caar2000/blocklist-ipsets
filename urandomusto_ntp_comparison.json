@@ -207,7 +207,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 11
+		"common": 9
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -357,25 +357,25 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27053,
-		"common": 74
+		"common": 72
 	},
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 85,
+		"ips": 87,
 		"common": 9
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 317,
+		"ips": 310,
 		"common": 3
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 311,
-		"common": 1
+		"ips": 312,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_smb",
@@ -384,9 +384,15 @@
 		"common": 4
 	},
 	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 383,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 281,
+		"ips": 283,
 		"common": 4
 	},
 	{
