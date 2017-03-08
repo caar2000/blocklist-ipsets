@@ -134,8 +134,8 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 341,
-		"common": 38
+		"ips": 338,
+		"common": 39
 	},
 	{
 		"name": "bambenek_matsnu",
@@ -154,12 +154,6 @@
 		"category": "malware",
 		"ips": 76,
 		"common": 9
-	},
-	{
-		"name": "bambenek_tinba",
-		"category": "malware",
-		"ips": 7,
-		"common": 1
 	},
 	{
 		"name": "bbcan177_ms1",
@@ -182,8 +176,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 400,
-		"common": 18
+		"ips": 407,
+		"common": 19
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -230,7 +224,7 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 301,
+		"ips": 302,
 		"common": 25
 	},
 	{
@@ -248,31 +242,31 @@
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 1121,
+		"ips": 1119,
 		"common": 69
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5118,
-		"common": 313
+		"ips": 5104,
+		"common": 309
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6404,
+		"ips": 6403,
 		"common": 338
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 20703,
+		"ips": 20701,
 		"common": 610
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10285,
+		"ips": 10276,
 		"common": 409
 	},
 	{
@@ -284,8 +278,8 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9314,
-		"common": 2157
+		"ips": 9313,
+		"common": 2156
 	},
 	{
 		"name": "blocklist_de_bots",
@@ -296,8 +290,8 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 743,
-		"common": 42
+		"ips": 737,
+		"common": 41
 	},
 	{
 		"name": "blocklist_de_ftp",
@@ -308,19 +302,19 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2152,
+		"ips": 2160,
 		"common": 86
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 28484,
-		"common": 3082
+		"ips": 28588,
+		"common": 3090
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 174,
+		"ips": 173,
 		"common": 10
 	},
 	{
@@ -332,14 +326,14 @@
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 113,
+		"ips": 114,
 		"common": 2
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13557,
-		"common": 862
+		"ips": 13451,
+		"common": 859
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -926,14 +920,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 49247,
+		"ips": 49248,
 		"common": 2336
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656280253,
-		"common": 4924849
+		"ips": 656280250,
+		"common": 4924850
 	},
 	{
 		"name": "firehol_level2",
@@ -950,8 +944,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589732,
-		"common": 161961
+		"ips": 9589636,
+		"common": 161958
 	},
 	{
 		"name": "firehol_proxies",
@@ -1509,7 +1503,7 @@
 		"name": "packetmail_mail",
 		"category": "reputation",
 		"ips": 254,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -1827,7 +1821,7 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 6
+		"common": 2
 	},
 	{
 		"name": "socks_proxy_1d",
@@ -1844,7 +1838,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 6905,
+		"ips": 6877,
 		"common": 258
 	},
 	{
@@ -1952,13 +1946,13 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 6420,
+		"ips": 6419,
 		"common": 87
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1406,
+		"ips": 1352,
 		"common": 28
 	},
 	{
@@ -2030,7 +2024,7 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 994,
+		"ips": 996,
 		"common": 90
 	},
 	{
@@ -2042,13 +2036,13 @@
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2415,
-		"common": 219
+		"ips": 2409,
+		"common": 218
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1310,
+		"ips": 1311,
 		"common": 133
 	},
 	{

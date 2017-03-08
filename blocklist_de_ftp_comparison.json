@@ -21,12 +21,12 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 7596,
-		"common": 25
+		"common": 27
 	},
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 400,
+		"ips": 407,
 		"common": 13
 	},
 	{
@@ -57,12 +57,18 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 53970,
-		"common": 612
+		"common": 611
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 23606,
+		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13557,
+		"ips": 13451,
 		"common": 23
 	},
 	{
@@ -284,20 +290,20 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 49247,
+		"ips": 49248,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656280253,
+		"ips": 656280250,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 62426,
-		"common": 612
+		"common": 611
 	},
 	{
 		"name": "firehol_level3",
@@ -308,7 +314,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589732,
+		"ips": 9589636,
 		"common": 26
 	},
 	{
@@ -327,7 +333,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34490620,
-		"common": 40
+		"common": 41
 	},
 	{
 		"name": "gofferje_sip",
@@ -345,7 +351,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 2088,
-		"common": 128
+		"common": 129
 	},
 	{
 		"name": "haley_ssh",
@@ -363,7 +369,7 @@
 		"name": "hphosts_fsa",
 		"category": "reputation",
 		"ips": 35153,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "hphosts_psh",
@@ -405,7 +411,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 35
+		"common": 34
 	},
 	{
 		"name": "iblocklist_level3",
@@ -591,7 +597,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 145
+		"common": 143
 	},
 	{
 		"name": "sp_atma",
