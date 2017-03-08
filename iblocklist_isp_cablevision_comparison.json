@@ -68,7 +68,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13685,
+		"ips": 13718,
 		"common": 2
 	},
 	{
@@ -128,25 +128,25 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 60532,
+		"ips": 60526,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 17160,
+		"ips": 17177,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 44916,
+		"ips": 44909,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 14127,
+		"ips": 14132,
 		"common": 1
 	},
 	{
@@ -242,13 +242,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12728,
+		"ips": 12729,
 		"common": 1
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 219184,
+		"ips": 219174,
 		"common": 42
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589762,
+		"ips": 9589794,
 		"common": 28
 	},
 	{
@@ -602,7 +602,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 23445,
+		"ips": 23444,
 		"common": 1
 	},
 	{
@@ -616,6 +616,18 @@
 		"category": "reputation",
 		"ips": 27053,
 		"common": 10
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 450,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 446,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
