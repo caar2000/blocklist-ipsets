@@ -200,7 +200,7 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 60545,
+		"ips": 60551,
 		"common": 4
 	},
 	{
@@ -212,25 +212,25 @@
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 26336,
+		"ips": 26343,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 5967,
+		"ips": 5966,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 44918,
+		"ips": 44919,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 14136,
+		"ips": 14135,
 		"common": 1
 	},
 	{
@@ -254,13 +254,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 24806,
+		"ips": 24825,
 		"common": 153
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 22614,
+		"ips": 22626,
 		"common": 112
 	},
 	{
@@ -380,7 +380,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 219186,
+		"ips": 219195,
 		"common": 9
 	},
 	{
@@ -410,7 +410,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589667,
+		"ips": 9589672,
 		"common": 38
 	},
 	{
@@ -440,7 +440,7 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 25105,
+		"ips": 25110,
 		"common": 27
 	},
 	{
@@ -842,13 +842,19 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 434,
-		"common": 17
+		"ips": 442,
+		"common": 9
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 451,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 108,
+		"ips": 110,
 		"common": 13
 	},
 	{
@@ -860,32 +866,32 @@
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 74,
+		"ips": 75,
 		"common": 8
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 450,
-		"common": 6
+		"ips": 449,
+		"common": 7
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 437,
-		"common": 5
+		"ips": 449,
+		"common": 10
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 293,
+		"ips": 301,
 		"common": 3
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 23,
-		"common": 7
+		"ips": 24,
+		"common": 8
 	},
 	{
 		"name": "voipbl",

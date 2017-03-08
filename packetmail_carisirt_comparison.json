@@ -188,7 +188,7 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 60545,
+		"ips": 60551,
 		"common": 1
 	},
 	{
@@ -200,13 +200,13 @@
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 44918,
+		"ips": 44919,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 14136,
+		"ips": 14135,
 		"common": 1
 	},
 	{
@@ -224,13 +224,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 24806,
+		"ips": 24825,
 		"common": 4
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 22614,
+		"ips": 22626,
 		"common": 1
 	},
 	{
@@ -320,7 +320,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 219186,
+		"ips": 219195,
 		"common": 1
 	},
 	{
@@ -350,7 +350,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589667,
+		"ips": 9589672,
 		"common": 11
 	},
 	{
@@ -380,7 +380,7 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 25105,
+		"ips": 25110,
 		"common": 8
 	},
 	{
@@ -690,15 +690,9 @@
 		"common": 2
 	},
 	{
-		"name": "urandomusto_http",
-		"category": "attacks",
-		"ips": 434,
-		"common": 1
-	},
-	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 108,
+		"ips": 110,
 		"common": 1
 	},
 	{
@@ -710,13 +704,19 @@
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 74,
+		"ips": 75,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 449,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 293,
+		"ips": 301,
 		"common": 4
 	},
 	{

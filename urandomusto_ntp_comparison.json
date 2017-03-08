@@ -92,7 +92,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 24806,
+		"ips": 24825,
 		"common": 6
 	},
 	{
@@ -129,12 +129,12 @@
 		"name": "dshield_top_1000",
 		"category": "attacks",
 		"ips": 894,
-		"common": 25
+		"common": 27
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 219186,
+		"ips": 219195,
 		"common": 1
 	},
 	{
@@ -153,12 +153,12 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 153308,
-		"common": 74
+		"common": 76
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589667,
+		"ips": 9589672,
 		"common": 1
 	},
 	{
@@ -182,7 +182,7 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 25105,
+		"ips": 25110,
 		"common": 1
 	},
 	{
@@ -225,19 +225,19 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 30
+		"common": 32
 	},
 	{
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 28
+		"common": 30
 	},
 	{
 		"name": "nullsecure",
@@ -327,13 +327,13 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 12347,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "threatcrowd",
 		"category": "malware",
 		"ips": 6383,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "trustedsec_atif",
@@ -345,7 +345,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27053,
-		"common": 71
+		"common": 73
 	},
 	{
 		"name": "urandomusto_dns",
@@ -357,25 +357,31 @@
 		"name": "urandomusto_ftp",
 		"category": "attacks",
 		"ips": 312,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 434,
-		"common": 2
+		"ips": 442,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 74,
+		"ips": 75,
 		"common": 4
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 293,
+		"ips": 301,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_vnc",
+		"category": "attacks",
+		"ips": 24,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
