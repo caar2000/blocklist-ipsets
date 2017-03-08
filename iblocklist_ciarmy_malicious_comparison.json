@@ -2,7 +2,7 @@
 	{
 		"name": "alienvault_reputation",
 		"category": "reputation",
-		"ips": 46912,
+		"ips": 47087,
 		"common": 15049
 	},
 	{
@@ -458,7 +458,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 22987,
+		"ips": 22989,
 		"common": 1
 	},
 	{
@@ -818,7 +818,7 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 522,
+		"ips": 524,
 		"common": 1
 	},
 	{
@@ -998,20 +998,26 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 318,
+		"ips": 316,
 		"common": 5
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 447,
-		"common": 9
+		"ips": 450,
+		"common": 5
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 451,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 112,
-		"common": 49
+		"ips": 113,
+		"common": 50
 	},
 	{
 		"name": "urandomusto_rdp",
@@ -1028,31 +1034,31 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 445,
-		"common": 4
+		"ips": 441,
+		"common": 6
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 447,
-		"common": 41
+		"ips": 449,
+		"common": 33
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 297,
-		"common": 48
+		"ips": 294,
+		"common": 47
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 46,
-		"common": 4
+		"ips": 43,
+		"common": 5
 	},
 	{
 		"name": "voipbl",
 		"category": "attacks",
-		"ips": 24918,
-		"common": 175
+		"ips": 24948,
+		"common": 178
 	}
 ]
