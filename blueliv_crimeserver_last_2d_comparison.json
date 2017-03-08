@@ -110,43 +110,43 @@
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 651,
+		"ips": 650,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 4325,
+		"ips": 4288,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 1149,
+		"ips": 1151,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5020,
+		"ips": 5025,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6317,
+		"ips": 6315,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 20633,
+		"ips": 20635,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10205,
+		"ips": 10208,
 		"common": 3
 	},
 	{
@@ -170,7 +170,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13675,
+		"ips": 13694,
 		"common": 66
 	},
 	{
@@ -218,7 +218,7 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15250,
+		"ips": 15254,
 		"common": 1
 	},
 	{
@@ -296,7 +296,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 7095,
+		"ips": 7106,
 		"common": 3
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 316512,
+		"ips": 316748,
 		"common": 3
 	},
 	{
@@ -392,7 +392,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 49329,
+		"ips": 49356,
 		"common": 4
 	},
 	{
@@ -410,19 +410,19 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 153307,
+		"ips": 153306,
 		"common": 32
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589672,
+		"ips": 9589693,
 		"common": 513
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 36197,
+		"ips": 36191,
 		"common": 1
 	},
 	{
@@ -710,8 +710,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36900,
-		"common": 4
+		"ips": 36720,
+		"common": 3
 	},
 	{
 		"name": "nullsecure",
@@ -782,7 +782,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5236,
+		"ips": 5237,
 		"common": 116
 	},
 	{
@@ -964,5 +964,11 @@
 		"category": "organizations",
 		"ips": 12747,
 		"common": 15
+	},
+	{
+		"name": "zeus",
+		"category": "malware",
+		"ips": 132,
+		"common": 1
 	}
 ]

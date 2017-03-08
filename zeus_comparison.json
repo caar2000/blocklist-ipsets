@@ -27,13 +27,19 @@
 		"name": "bbcan177_ms1",
 		"category": "malware",
 		"ips": 5268568,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13675,
+		"ips": 13694,
 		"common": 2
+	},
+	{
+		"name": "blueliv_crimeserver_last_2d",
+		"category": "attacks",
+		"ips": 7953,
+		"common": 1
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -45,18 +51,30 @@
 		"name": "blueliv_crimeserver_last_7d",
 		"category": "attacks",
 		"ips": 13872,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 30542,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "botvrij_dst",
 		"category": "attacks",
 		"ips": 189,
+		"common": 1
+	},
+	{
+		"name": "cleanmx_phishing",
+		"category": "spam",
+		"ips": 4519,
+		"common": 1
+	},
+	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 12190,
 		"common": 1
 	},
 	{
@@ -81,7 +99,7 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 25156731,
-		"common": 132
+		"common": 131
 	},
 	{
 		"name": "et_spamhaus",
@@ -98,14 +116,14 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 153307,
+		"ips": 153306,
 		"common": 132
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589672,
-		"common": 11
+		"ips": 9589693,
+		"common": 12
 	},
 	{
 		"name": "firehol_webclient",
@@ -165,7 +183,7 @@
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 23179,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "hphosts_wrz",
@@ -219,7 +237,7 @@
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
 		"ips": 4346058,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
@@ -240,6 +258,12 @@
 		"common": 92
 	},
 	{
+		"name": "lashback_ubl",
+		"category": "spam",
+		"ips": 596926,
+		"common": 1
+	},
+	{
 		"name": "packetmail_emerging_ips",
 		"category": "reputation",
 		"ips": 51,
@@ -249,12 +273,12 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34247816,
-		"common": 12
+		"common": 11
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5236,
+		"ips": 5237,
 		"common": 2
 	},
 	{
@@ -273,6 +297,12 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
+		"common": 1
+	},
+	{
+		"name": "sorbs_recent_spam",
+		"category": "spam",
+		"ips": 545338,
 		"common": 1
 	},
 	{
@@ -334,6 +364,12 @@
 		"category": "malware",
 		"ips": 6383,
 		"common": 7
+	},
+	{
+		"name": "vxvault",
+		"category": "malware",
+		"ips": 73,
+		"common": 1
 	},
 	{
 		"name": "zeus_badips",
