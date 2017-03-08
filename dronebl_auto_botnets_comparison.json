@@ -200,7 +200,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13636,
+		"ips": 13556,
 		"common": 45
 	},
 	{
@@ -698,7 +698,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589766,
+		"ips": 9589683,
 		"common": 984
 	},
 	{
@@ -1322,7 +1322,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5236,
+		"ips": 5237,
 		"common": 10
 	},
 	{
@@ -1653,24 +1653,30 @@
 		"name": "urandomusto_mailer",
 		"category": "spam",
 		"ips": 451,
-		"common": 5
+		"common": 3
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 136,
+		"ips": 134,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 448,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 446,
-		"common": 2
+		"ips": 447,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 307,
+		"ips": 300,
 		"common": 1
 	},
 	{
@@ -1688,25 +1694,25 @@
 	{
 		"name": "xroxy",
 		"category": "anonymizers",
-		"ips": 53,
+		"ips": 52,
 		"common": 4
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 148,
+		"ips": 140,
 		"common": 12
 	},
 	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 426,
+		"ips": 427,
 		"common": 26
 	},
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 293,
+		"ips": 296,
 		"common": 18
 	},
 	{

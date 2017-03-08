@@ -242,7 +242,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589766,
+		"ips": 9589683,
 		"common": 4
 	},
 	{
@@ -542,8 +542,8 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 451,
-		"common": 4
+		"ips": 450,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -554,14 +554,20 @@
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 75,
+		"ips": 76,
 		"common": 9
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 448,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 307,
-		"common": 51
+		"ips": 300,
+		"common": 53
 	},
 	{
 		"name": "urandomusto_vnc",

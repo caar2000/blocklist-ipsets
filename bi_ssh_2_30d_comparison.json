@@ -170,7 +170,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13636,
+		"ips": 13556,
 		"common": 97
 	},
 	{
@@ -524,7 +524,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589766,
+		"ips": 9589683,
 		"common": 2176
 	},
 	{
@@ -1016,7 +1016,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5236,
+		"ips": 5237,
 		"common": 2
 	},
 	{
@@ -1256,8 +1256,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
+		"ips": 450,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
 		"ips": 451,
-		"common": 4
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -1268,31 +1274,31 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 136,
+		"ips": 134,
 		"common": 4
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 75,
+		"ips": 76,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 446,
-		"common": 6
+		"ips": 448,
+		"common": 4
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 446,
+		"ips": 447,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 307,
+		"ips": 300,
 		"common": 3
 	},
 	{
