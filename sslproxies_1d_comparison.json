@@ -32,13 +32,13 @@
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 552,
+		"ips": 534,
 		"common": 40
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 25680,
+		"ips": 25697,
 		"common": 22
 	},
 	{
@@ -50,7 +50,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13701,
+		"ips": 13689,
 		"common": 29
 	},
 	{
@@ -236,8 +236,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 49413,
-		"common": 410
+		"ips": 49411,
+		"common": 409
 	},
 	{
 		"name": "firehol_level2",
@@ -254,14 +254,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589699,
+		"ips": 9589687,
 		"common": 120
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
 		"ips": 36276,
-		"common": 410
+		"common": 409
 	},
 	{
 		"name": "firehol_webserver",
@@ -564,9 +564,15 @@
 		"common": 95
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 2
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1622,
+		"ips": 1597,
 		"common": 7
 	},
 	{
@@ -578,7 +584,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 7466,
+		"ips": 7442,
 		"common": 7
 	},
 	{
@@ -591,7 +597,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 17
+		"common": 16
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -615,7 +621,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 13
+		"common": 12
 	},
 	{
 		"name": "sslproxies",
@@ -627,13 +633,13 @@
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
 		"ips": 6427,
-		"common": 410
+		"common": 409
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1612,
-		"common": 410
+		"ips": 1610,
+		"common": 409
 	},
 	{
 		"name": "stopforumspam",
@@ -680,13 +686,13 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 318,
+		"ips": 317,
 		"common": 4
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 443,
+		"ips": 442,
 		"common": 1
 	},
 	{
