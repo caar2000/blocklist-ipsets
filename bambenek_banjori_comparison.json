@@ -84,6 +84,12 @@
 		"common": 11
 	},
 	{
+		"name": "dyndns_ponmocup",
+		"category": "malware",
+		"ips": 214,
+		"common": 1
+	},
+	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 656310713,
@@ -98,14 +104,20 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589649,
+		"ips": 9589643,
 		"common": 16
+	},
+	{
+		"name": "firehol_webclient",
+		"category": "malware",
+		"ips": 22901,
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34490758,
-		"common": 46
+		"common": 47
 	},
 	{
 		"name": "hphosts_ats",
@@ -189,7 +201,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691433,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "iblocklist_level2",
@@ -243,7 +255,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34247816,
-		"common": 16
+		"common": 17
 	},
 	{
 		"name": "ransomware_feed",
