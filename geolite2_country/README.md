@@ -48,7 +48,7 @@ Using this information we created two additional ipsets: `geolite2/anonymous.net
 ## Dynamic list of ipsets
 
 
-The following list was automatically generated on Wed Feb 15 03:26:44 UTC 2017.
+The following list was automatically generated on Wed Mar  8 04:06:51 UTC 2017.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
