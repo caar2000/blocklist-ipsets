@@ -140,7 +140,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 374,
+		"ips": 378,
 		"common": 1
 	},
 	{
@@ -254,7 +254,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13556,
+		"ips": 13567,
 		"common": 298
 	},
 	{
@@ -626,7 +626,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12926,
+		"ips": 13038,
 		"common": 5
 	},
 	{
@@ -662,7 +662,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589692,
+		"ips": 9589703,
 		"common": 1560
 	},
 	{
@@ -1032,6 +1032,30 @@
 		"common": 241
 	},
 	{
+		"name": "ipblacklistcloud_recent",
+		"category": "abuse",
+		"ips": 32,
+		"common": 1
+	},
+	{
+		"name": "ipblacklistcloud_recent_1d",
+		"category": "abuse",
+		"ips": 63,
+		"common": 1
+	},
+	{
+		"name": "ipblacklistcloud_recent_30d",
+		"category": "abuse",
+		"ips": 1030,
+		"common": 1
+	},
+	{
+		"name": "ipblacklistcloud_recent_7d",
+		"category": "abuse",
+		"ips": 232,
+		"common": 1
+	},
+	{
 		"name": "iw_spamlist",
 		"category": "spam",
 		"ips": 943,
@@ -1070,8 +1094,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36802,
-		"common": 7
+		"ips": 36810,
+		"common": 6
 	},
 	{
 		"name": "nullsecure",
