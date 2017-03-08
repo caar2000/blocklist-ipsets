@@ -206,73 +206,73 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2546,
-		"common": 38
+		"ips": 2554,
+		"common": 37
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6509,
+		"ips": 6523,
 		"common": 101
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 60520,
-		"common": 410
+		"ips": 60531,
+		"common": 411
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 17121,
-		"common": 176
+		"ips": 17136,
+		"common": 177
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 546,
-		"common": 12
+		"ips": 554,
+		"common": 13
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 1353,
+		"ips": 1354,
 		"common": 37
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 26344,
-		"common": 118
+		"ips": 26354,
+		"common": 119
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 5957,
-		"common": 64
+		"ips": 5962,
+		"common": 65
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 26
+		"common": 24
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5797,
+		"ips": 5808,
 		"common": 64
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 44862,
+		"ips": 44861,
 		"common": 317
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 14065,
+		"ips": 14075,
 		"common": 116
 	},
 	{
@@ -296,7 +296,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 473,
+		"ips": 470,
 		"common": 3
 	},
 	{
@@ -476,19 +476,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12190,
+		"ips": 12201,
 		"common": 234
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 219122,
-		"common": 1385
+		"ips": 219129,
+		"common": 1386
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 49422,
+		"ips": 49413,
 		"common": 1275
 	},
 	{
@@ -500,7 +500,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 64778,
+		"ips": 64780,
 		"common": 25679
 	},
 	{
@@ -518,7 +518,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 36285,
+		"ips": 36276,
 		"common": 1272
 	},
 	{
@@ -560,8 +560,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2427,
-		"common": 337
+		"ips": 2444,
+		"common": 349
 	},
 	{
 		"name": "haley_ssh",
@@ -830,8 +830,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 33225,
-		"common": 4411
+		"ips": 33716,
+		"common": 4431
 	},
 	{
 		"name": "nullsecure",
@@ -992,25 +992,25 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 552,
-		"common": 13
+		"ips": 539,
+		"common": 14
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 1564,
+		"ips": 1588,
 		"common": 37
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 5063,
+		"ips": 5059,
 		"common": 67
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 3116,
+		"ips": 3108,
 		"common": 55
 	},
 	{
@@ -1040,44 +1040,50 @@
 	{
 		"name": "proxyspy",
 		"category": "anonymizers",
-		"ips": 294,
-		"common": 10
+		"ips": 293,
+		"common": 9
 	},
 	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 951,
-		"common": 39
+		"ips": 938,
+		"common": 40
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 7190,
-		"common": 129
+		"ips": 7174,
+		"common": 130
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 3033,
+		"ips": 3022,
 		"common": 99
+	},
+	{
+		"name": "proxz",
+		"category": "anonymizers",
+		"ips": 23,
+		"common": 2
 	},
 	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 252,
-		"common": 6
+		"ips": 260,
+		"common": 7
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2048,
+		"ips": 2044,
 		"common": 41
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 860,
-		"common": 22
+		"ips": 858,
+		"common": 23
 	},
 	{
 		"name": "pushing_inertia_blocklist",
